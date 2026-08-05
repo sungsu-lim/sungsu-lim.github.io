@@ -17,42 +17,99 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am an Associate Professor in the School of Computing and AI at **Chungnam National University (CNU)**, Daejeon, South Korea, where I lead the **Data Intelligence Lab (DILAB)**.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research focuses on **Graph Machine Learning, Trustworthy AI, GraphRAG, and Recommendation Systems**.  
+I am particularly interested in developing reliable and practical learning methods for complex relational data, including graph neural networks, uncertainty quantification, fairness, heterogeneous and dynamic graphs, and graph-enhanced large language models.
+
+Before joining CNU, I received my B.S. and M.S. degrees in Mathematical Sciences and my Ph.D. degree in Data Science from **KAIST**.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+- *2026.08*: 🎉 Our work on **Quantile-Free Uncertainty Quantification in Graph Neural Networks (QpiGNN)** was presented at **ICML 2026**.
+- *2026.07*: 🎉 Our two papers, **StAR** and **DisCoRec**, were presented at **SIGIR 2026** in Melbourne.
+- *2026*: Serving as a **Poster Chair for KDD 2026**.
+- *2025.11*: 🎉 Two papers, **FnRGNN** and **CR-SGCN**, were presented at **CIKM 2025**.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+# 📝 Selected Publications
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+### Quantile-Free Uncertainty Quantification in Graph Neural Networks
+**Soyoung Park**, Hwanjun Song, **Sungsu Lim**  
+*International Conference on Machine Learning (ICML), 2026*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+A quantile-free framework for uncertainty quantification in graph neural networks, designed to provide reliable predictive intervals under graph-dependent observations.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+---
+
+### StAR: Adaptive Structure-Aware Reranking for Semantic-Structural Alignment in GraphRAG
+Junghyun Oh, **Sungsu Lim**  
+*ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2026*
+
+An adaptive reranking framework that jointly considers semantic relevance and graph structure for more effective GraphRAG retrieval.
+
+---
+
+### DisCoRec
+Minkyung Song, Soyoung Park, **Sungsu Lim**  
+*ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2026*
+
+A recommendation framework that incorporates conformity-aware information to improve personalized recommendation.
+
+---
+
+### Dynamic Periodic Event Graphs for Multivariate Time Series Pattern Prediction
+Soyoung Park, Hyunwoo Lee, **Sungsu Lim**  
+*PeerJ Computer Science, 2025*
+
+A dynamic graph learning framework for modeling periodic and multivariate temporal patterns.
+
+
+# 🔬 Research Interests
+
+- **Graph Machine Learning**
+  - Graph Neural Networks
+  - Heterogeneous, Signed, and Dynamic Graphs
+  - Graph Representation Learning
+
+- **Trustworthy AI**
+  - Uncertainty Quantification
+  - Fairness and Robustness
+  - Reliable Graph Learning
+
+- **Graphs + Large Language Models**
+  - GraphRAG
+  - Graph-enhanced LLMs
+  - Retrieval and Reasoning over Graphs
+
+- **Recommendation and Information Retrieval**
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022*: **President's Award**, National Research Council of Science & Technology (NST)
+- *2022*: **NVIDIA Applied Research Accelerator**
+- *2021*: **Commissioner's Citation**, Korea Customs Service
+- *2016*: **Qualcomm Innovation Award**
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📖 Education
+
+- **Ph.D. in Data Science**, KAIST, 2016
+- **M.S. in Mathematical Sciences**, KAIST, 2011
+- **B.S. in Mathematical Sciences**, KAIST, 2009
+
+
+# 💼 Professional Service
+
+- **Poster Chair**, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026
+- Reviewer / Program Committee Member for major conferences and journals in machine learning, data mining, and natural language processing
+
+
+# 👥 Data Intelligence Lab
+
+I lead the **Data Intelligence Lab (DILAB)** at Chungnam National University.  
+Our group studies graph machine learning, trustworthy AI, recommendation systems, and graph-enhanced large language models.
+
+<!-- Lab website link can be added here later. -->
