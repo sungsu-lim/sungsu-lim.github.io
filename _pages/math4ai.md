@@ -9,19 +9,34 @@ author_profile: true
 
 **Chungnam National University · School of Computing and AI**
 
-This page provides course information and materials for **Mathematics for AI (AI를 위한 수학)** offered in Fall 2026.
+Course materials and announcements for **Mathematics for AI (AI를 위한 수학)**, Fall 2026.
 
-## 📌 Course Information
+## Course Information
 
 - **Instructor:** Sungsu Lim
 - **Semester:** Fall 2026
-- **Department:** School of Computing and AI, Chungnam National University
-- **E-mail:** sungsu@cnu.ac.kr
+- **School:** School of Computing and AI, Chungnam National University
 
-## 📢 Announcements
+## Announcements
 
-Course information and materials will be updated before and during the semester.
+Course information will be updated before the semester.
 
-## 📚 Course Materials
+## Course Schedule
 
-Lecture slides and supplementary materials will be posted here.
+| Week | Topic | Materials |
+|:---:|---|---|
+| 1 | Course INtroduction |  |
+| 2 | Linear Algebra #1 |  |
+| 3 | Linear Algebra #2 |  |
+| 4 | Analytic Geometry #1 |  |
+| 5 | Analytic Geometry #2 |  |
+| 6 | Matrix Decomposition #1 |  |
+| 7 | Matrix Decomposition #2 |  |
+| 8 | Midterm Exam |  |
+| 9 | Vector Calculus #1 |  |
+| 10 | Vector Calculus #2 |  |
+| 11 | Probability and Distribution #1 |  |
+| 12 | Probability and Distribution #2 |  |
+| 13 | Continuous Optimization |  |
+| 14 | When Models Meet Data |  |
+| 15 | Final Exam |  |
