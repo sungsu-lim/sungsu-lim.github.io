@@ -4,7 +4,7 @@ title: "Publications"
 author_profile: true
 ---
 
-For the complete and up-to-date publication list, please see my [Google Scholar](https://scholar.google.com/citations?user=cMQT0a8AAAAJ).
+For the complete and up-to-date publication list, please see my [Google Scholar](https://scholar.google.com/citations?user=cMQT0a8AAAAJ) (<span id="total_cit">—</span> citations).
 
 \* Corresponding author · † Equal contribution
 
