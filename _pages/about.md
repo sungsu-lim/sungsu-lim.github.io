@@ -43,25 +43,25 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 # 📝 Selected Recent Publications
 
 ### Quantile-Free Uncertainty Quantification in Graph Neural Networks
-Soyoung Park, Hwanjun Song, and **Sungsu Lim***  
+Soyoung Park, Hwanjun Song, and **Sungsu Lim**\*  
 *ICML 2026* · Regular Paper · Acceptance Rate: 26.6%
 
 ---
 
 ### StAR: Adaptive Structure-Aware Reranking for Semantic-Structural Alignment in GraphRAG
-Junghyun Oh and **Sungsu Lim***  
+Junghyun Oh and **Sungsu Lim**\*  
 *SIGIR 2026* · Short Paper · Acceptance Rate: 26.7%
 
 ---
 
 ### DisCoRec: Disentangled Conformity-aware Recommendation with LLM-Guided Multi-View Learning
-Minkyung Song, Soyoung Park*, and **Sungsu Lim***  
+Minkyung Song, Soyoung Park\*, and **Sungsu Lim**\*  
 *SIGIR 2026* · Short Paper · Acceptance Rate: 26.7%
 
 ---
 
 ### MR-Pruner: Training-free Multi-resolution Visual Token Pruning for Multi-modal Large Language Models
-Seunghoon Han, Hyewon Lee, Soyoung Park, Jong-Ryul Lee*, and **Sungsu Lim***  
+Seunghoon Han, Hyewon Lee, Soyoung Park, Jong-Ryul Lee\*, and **Sungsu Lim**\*  
 *WACV 2026* · Regular Paper · Acceptance Rate: 33.7%
 
 
@@ -96,9 +96,10 @@ Seunghoon Han, Hyewon Lee, Soyoung Park, Jong-Ryul Lee*, and **Sungsu Lim***
 
 # 👥 Data Intelligence Lab
 
-I lead the Data Intelligence Lab (DILAB) at Chungnam National University. Our group conducts research on graph machine learning, trustworthy AI, recommender systems, and graph-enhanced large language models.
+I have led the [Data Intelligence Lab (DILAB)](https://www.cnudi.com/) at Chungnam National University since 2018. Our group conducts research on graph machine learning, trustworthy AI, GraphRAG and LLM applications, and recommender systems and information retrieval.
 
-Our students have received research fellowships and awards from NRF Korea, KISTI, KIISE, and other academic and industry organizations.
+Our group has graduated 5 Ph.D. and 5 M.S. full-time students. Our Ph.D. alumni are Hwan Kim (M.I.Cube Solution), Soohwan Jeong (ADD), Jungsun Kim (ETRI), Jongmin Park (ETRI), and Soyoung Park. Our students have received research fellowships and awards from NRF Korea, KISTI, KIISE, and other academic and industry organizations.
+
 
 # 🎓 Teaching
 
