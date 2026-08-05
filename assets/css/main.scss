@@ -154,10 +154,19 @@ html.dark-mode .paper-box {
   border-color: #444;
 }
 
-#theme-toggle {
-  background: none;
-  border: none;
+/* Theme toggle button */
+.greedy-nav #theme-toggle {
+  position: static;
+  height: auto;
+  width: auto;
+  right: auto;
+  top: auto;
+  padding: 0.5rem 0.7rem;
+  margin: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
   cursor: pointer;
-  font-size: 1.1em;
-  padding: 0.5em;
+  font-size: 1.05rem;
+  line-height: 1;
 }
