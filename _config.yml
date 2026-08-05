@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sungsu Lim"
-description              : "Associate Professor at Chungnam National University. Research interests include Graph Machine Learning, Trustworthy AI, GraphRAG, and Recommendation Systems."
+description              :
 repository               : "sungsu-lim/sungsu-lim.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sungsu-lim"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
