@@ -17,99 +17,114 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Associate Professor in the School of Computing and AI at **Chungnam National University (CNU)**, Daejeon, South Korea, where I lead the **Data Intelligence Lab (DILAB)**.
+I am an Associate Professor in the School of Computing and AI at Chungnam National University (CNU), where I lead the Data Intelligence Lab (DILAB).
 
-My research focuses on **Graph Machine Learning, Trustworthy AI, GraphRAG, and Recommendation Systems**.  
-I am particularly interested in developing reliable and practical learning methods for complex relational data, including graph neural networks, uncertainty quantification, fairness, heterogeneous and dynamic graphs, and graph-enhanced large language models.
-
-Before joining CNU, I received my B.S. and M.S. degrees in Mathematical Sciences and my Ph.D. degree in Data Science from **KAIST**.
+I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Jae-Gil Lee](https://www.kaistdmlab.org/jaegil) and Prof. [Kyomin Jung](https://milab.snu.ac.kr/kjung/). My research interests include **graph machine learning, trustworthy AI, GraphRAG and LLM applications, and recommender systems**, with broader interests in data mining and knowledge engineering.
 
 
 # 🔥 News
 
-- *2026.08*: 🎉 Our work on **Quantile-Free Uncertainty Quantification in Graph Neural Networks (QpiGNN)** was presented at **ICML 2026**.
-- *2026.07*: 🎉 Our two papers, **StAR** and **DisCoRec**, were presented at **SIGIR 2026** in Melbourne.
-- *2026*: Serving as a **Poster Chair for KDD 2026**.
-- *2025.11*: 🎉 Two papers, **FnRGNN** and **CR-SGCN**, were presented at **CIKM 2025**.
-
-
-# 📝 Selected Publications
-
-### Quantile-Free Uncertainty Quantification in Graph Neural Networks
-**Soyoung Park**, Hwanjun Song, **Sungsu Lim**  
-*International Conference on Machine Learning (ICML), 2026*
-
-A quantile-free framework for uncertainty quantification in graph neural networks, designed to provide reliable predictive intervals under graph-dependent observations.
-
----
-
-### StAR: Adaptive Structure-Aware Reranking for Semantic-Structural Alignment in GraphRAG
-Junghyun Oh, **Sungsu Lim**  
-*ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2026*
-
-An adaptive reranking framework that jointly considers semantic relevance and graph structure for more effective GraphRAG retrieval.
-
----
-
-### DisCoRec
-Minkyung Song, Soyoung Park, **Sungsu Lim**  
-*ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2026*
-
-A recommendation framework that incorporates conformity-aware information to improve personalized recommendation.
-
----
-
-### Dynamic Periodic Event Graphs for Multivariate Time Series Pattern Prediction
-Soyoung Park, Hyunwoo Lee, **Sungsu Lim**  
-*PeerJ Computer Science, 2025*
-
-A dynamic graph learning framework for modeling periodic and multivariate temporal patterns.
+- *2026.07*: 🎉 Our work on **quantile-free uncertainty quantification for GNNs** was presented at [ICML 2026](https://icml.cc/Conferences/2026).
+- *2026.07*: 🎉 Two papers on **GraphRAG** and **recommendation** were presented at [SIGIR 2026](https://sigir2026.org/).
+- *2026.03*: 🎉 Our work on **visual token pruning for multimodal LLMs** was presented at [WACV 2026](https://wacv.thecvf.com/Conferences/2026).
+- *2026.02*: 🎉 Our work on **LLM-enhanced citation network representation learning** was presented at [WSDM 2026](https://wsdm-conference.org/2026/).
+- *2026.01*: Received the **CNU President's Commendation for Outstanding Faculty Member**.
+- *2025.11*: 🎉 Two papers on **fair graph learning** and **signed community detection** were presented at [CIKM 2025](https://cikm2025.org/).
 
 
 # 🔬 Research Interests
 
-- **Graph Machine Learning**
-  - Graph Neural Networks
-  - Heterogeneous, Signed, and Dynamic Graphs
-  - Graph Representation Learning
-
-- **Trustworthy AI**
-  - Uncertainty Quantification
-  - Fairness and Robustness
-  - Reliable Graph Learning
-
-- **Graphs + Large Language Models**
-  - GraphRAG
-  - Graph-enhanced LLMs
-  - Retrieval and Reasoning over Graphs
-
-- **Recommendation and Information Retrieval**
+- Graph Machine Learning
+- Trustworthy and Reliable AI
+- GraphRAG and LLM Applications
+- Recommender Systems and Information Retrieval
 
 
-# 🎖 Honors and Awards
+# 📝 Selected Recent Publications
 
-- *2022*: **President's Award**, National Research Council of Science & Technology (NST)
-- *2022*: **NVIDIA Applied Research Accelerator**
-- *2021*: **Commissioner's Citation**, Korea Customs Service
-- *2016*: **Qualcomm Innovation Award**
+### Quantile-Free Uncertainty Quantification in Graph Neural Networks
+Soyoung Park, Hwanjun Song, and **Sungsu Lim***  
+*ICML 2026* · Regular Paper · Acceptance Rate: 26.6%
+
+---
+
+### StAR: Adaptive Structure-Aware Reranking for Semantic-Structural Alignment in GraphRAG
+Junghyun Oh and **Sungsu Lim***  
+*SIGIR 2026* · Short Paper · Acceptance Rate: 26.7%
+
+---
+
+### DisCoRec: Disentangled Conformity-aware Recommendation with LLM-Guided Multi-View Learning
+Minkyung Song, Soyoung Park*, and **Sungsu Lim***  
+*SIGIR 2026* · Short Paper · Acceptance Rate: 26.7%
+
+---
+
+### MR-Pruner: Training-free Multi-resolution Visual Token Pruning for Multi-modal Large Language Models
+Seunghoon Han, Hyewon Lee, Soyoung Park, Jong-Ryul Lee*, and **Sungsu Lim***  
+*WACV 2026* · Regular Paper · Acceptance Rate: 33.7%
+
+
+# 🎖 Selected Honors and Awards
+
+- *2025*: CNU President's Commendation for Outstanding Faculty Member
+- *2023–2026*: Outstanding Young Researchers Grant & Innovative Research Laboratory Grant, NRF of Korea
+- *2023*: KSEE Young Engineering Educator Award
+- *2022*: NVIDIA Applied Research Accelerator Award
+- *2022*: CNU Teaching Award — selected as one of 9 faculty members
+- *2021*: Commissioner's Citation, Korea Customs Service
+- *2021*: Best Paper Award (3rd Place), IEEE BigComp
+- *2016*: Qualcomm Innovation Award
+
+
+# 💼 Experience
+
+- *2023–present*: Associate Professor, Chungnam National University
+- *2024–2025*: Advisor & Visiting Researcher, Nota AI, Sunnyvale, CA, USA
+- *2018–2023*: Assistant Professor, Chungnam National University
+- *2013–2016*: Research Assistant, Data Mining Lab., KAIST (Advisor: Jae-Gil Lee)
+- *2010–2013*: Research Assistant, Applied Algorithm Lab., KAIST (Advisor: Kyomin Jung)
 
 
 # 📖 Education
 
-- **Ph.D. in Data Science**, KAIST, 2016
-- **M.S. in Mathematical Sciences**, KAIST, 2011
-- **B.S. in Mathematical Sciences**, KAIST, 2009
-
-
-# 💼 Professional Service
-
-- **Poster Chair**, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026
-- Reviewer / Program Committee Member for major conferences and journals in machine learning, data mining, and natural language processing
+- *2016*: Ph.D. in [Data Science, KAIST](https://gsds.kaist.ac.kr/)  
+- *2011*: M.S. in [Mathematical Sciences, KAIST](https://mathsci.kaist.ac.kr/home/)
+- *2009*: B.S. in [Mathematical Sciences, KAIST](https://mathsci.kaist.ac.kr/home/)
+- *2004*: Chungnam Science High School (early graduation)
 
 
 # 👥 Data Intelligence Lab
 
-I lead the **Data Intelligence Lab (DILAB)** at Chungnam National University.  
-Our group studies graph machine learning, trustworthy AI, recommendation systems, and graph-enhanced large language models.
+I lead the Data Intelligence Lab (DILAB) at Chungnam National University. Our group conducts research on graph machine learning, trustworthy AI, recommender systems, and graph-enhanced large language models.
 
-<!-- Lab website link can be added here later. -->
+Our students have received research fellowships and awards from NRF Korea, KISTI, KIISE, and other academic and industry organizations.
+
+# 🎓 Teaching
+
+Selected courses at Chungnam National University:
+
+- Machine Learning with Graphs
+- Topics in Data Mining
+- Deep Learning
+- Mathematics for AI
+- Linear Algebra
+- Discrete Mathematics
+
+
+# 🤝 Professional Service
+
+- **Poster Chair**, [KDD 2026](https://kdd2026.kdd.org/)
+- **Organizing Committee**: KDD, BigComp, KCC, KDBC, and other conferences
+- **Program Committee**: AAAI, SIGIR, CIKM, DASFAA, PAKDD, ECAI, BigComp, and others
+- **Editorial Board Member**: Frontiers in Big Data, Journal of KIISE, and Communications of KIISE
+- **Reviewer** for journals including Proceedings of the IEEE, IEEE TKDE, VLDB Journal, and Information Sciences
+
+
+# 🎤 Selected Invited Talks
+
+- *2026*: Graph Learning, UNIST (upcoming)
+- *2026*: Generative & Trustworthy AI, Chungnam National University Hospital
+- *2026*: Trustworthy AI, Korea Astronomy and Space Science Institute
+- *2025*: LLM & RAG, Public Procurement Service
+- *2024*: Heterogeneous Graph Embedding, Kangwon National University
