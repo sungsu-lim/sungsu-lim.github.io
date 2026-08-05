@@ -70,10 +70,10 @@ Seunghoon Han, Hyewon Lee, Soyoung Park, Jong-Ryul Lee\*, and **Sungsu Lim**\*
 # 🎖 Selected Honors and Awards
 
 - *2025*: CNU President's Commendation for Outstanding Faculty Member
-- *2023–2026*: Outstanding Young Researchers Grant & Innovative Research Laboratory Grant, NRF of Korea
-- *2023*: KSEE Young Engineering Educator Award
-- *2022*: NVIDIA Applied Research Accelerator Award
-- *2022*: CNU Teaching Award — selected as one of 9 faculty members
+- *2023–2026*: Outstanding Young Researchers Grant, NRF of Korea
+- *2023*: [KSEE Young Engineering Educator Award](https://www.ksee.org/html/?pmode=prize)
+- *2022*: [NVIDIA Applied Research Accelerator Award](https://www.nvidia.com/en-us/industries/higher-education-research/applied-research-program/)
+- *2022*: [CNU Teaching Award](https://plus.cnu.ac.kr/html/kr/sub01/sub01_01071504.html)
 - *2021*: Commissioner's Citation, Korea Customs Service
 - *2021*: Best Paper Award (3rd Place), IEEE BigComp
 - *2016*: Qualcomm Innovation Award
@@ -100,7 +100,7 @@ Seunghoon Han, Hyewon Lee, Soyoung Park, Jong-Ryul Lee\*, and **Sungsu Lim**\*
 
 I have led the [Data Intelligence Lab (DILAB)](https://www.cnudi.com/) at Chungnam National University since 2018. Our group conducts research on graph machine learning, trustworthy AI, GraphRAG and LLM applications, and recommender systems and information retrieval.
 
-Our group has graduated 5 Ph.D. and 5 M.S. full-time students. Our Ph.D. alumni are [Hwan Kim](https://scholar.google.com/citations?user=V2TxDWcAAAAJ) (M.I.Cube Solution), [Soohwan Jeong](https://scholar.google.com/citations?user=piMrsTcAAAAJ) (ADD), [Jeongseon Kim](https://ksp.etri.re.kr/ksp/user/7ce9b688-2cd9-419b-a808-58fc29a917f3) (ETRI), [Jongmin Park](https://scholar.google.com/citations?user=YvsYgPYAAAAJ) (ETRI), and [Soyoung Park](https://scholar.google.com/citations?user=gVs80sgAAAAJ). Our students have received research fellowships and awards from NRF Korea, KISTI, KIISE, and other academic and industry organizations.
+Our group has graduated 5 Ph.D. and 5 M.S. full-time students. Our Ph.D. alumni are [Hwan Kim](https://scholar.google.com/citations?user=V2TxDWcAAAAJ) (M.I.Cube Solution), [Soohwan Jeong](https://scholar.google.com/citations?user=piMrsTcAAAAJ) (ADD), [Jeongseon Kim](https://ksp.etri.re.kr/ksp/user/7ce9b688-2cd9-419b-a808-58fc29a917f3) (ETRI), [Jongmin Park](https://scholar.google.com/citations?user=YvsYgPYAAAAJ) (ETRI), and [Soyoung Park](https://scholar.google.com/citations?user=gVs80sgAAAAJ) (UNIST Postdoc). Our students have received research fellowships and awards from NRF Korea, KISTI, KIISE, and other academic and industry organizations.
 
 
 # 🎓 Teaching
