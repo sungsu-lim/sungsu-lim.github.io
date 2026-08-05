@@ -110,7 +110,7 @@ Selected courses at Chungnam National University:
 - Machine Learning with Graphs
 - Topics in Data Mining
 - Deep Learning
-- Mathematics for AI
+- [Mathematics for AI](/math4ai/)
 - Linear Algebra
 - Discrete Mathematics
 
