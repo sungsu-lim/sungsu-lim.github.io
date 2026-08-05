@@ -40,6 +40,8 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 - Recommender Systems and Information Retrieval
 
 
+<span class='anchor' id='publications'></span>
+
 # 📝 Selected Recent Publications
 
 ### Quantile-Free Uncertainty Quantification in Graph Neural Networks
