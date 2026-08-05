@@ -107,3 +107,57 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Dark mode */
+
+html.dark-mode {
+  background: #181a1b;
+}
+
+html.dark-mode body {
+  background: #181a1b;
+  color: #e6e6e6;
+}
+
+html.dark-mode .masthead,
+html.dark-mode .greedy-nav {
+  background: #181a1b;
+}
+
+html.dark-mode .masthead a,
+html.dark-mode .greedy-nav a {
+  color: #d8d8d8;
+}
+
+html.dark-mode h1,
+html.dark-mode h2,
+html.dark-mode h3,
+html.dark-mode h4,
+html.dark-mode h5,
+html.dark-mode strong {
+  color: #eeeeee;
+}
+
+html.dark-mode a {
+  color: #8ab4f8;
+}
+
+html.dark-mode .page__content,
+html.dark-mode .sidebar,
+html.dark-mode .author__content,
+html.dark-mode .author__urls-wrapper {
+  color: #dddddd;
+}
+
+html.dark-mode hr,
+html.dark-mode .paper-box {
+  border-color: #444;
+}
+
+#theme-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.1em;
+  padding: 0.5em;
+}
