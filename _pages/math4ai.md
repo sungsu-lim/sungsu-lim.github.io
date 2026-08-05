@@ -25,7 +25,7 @@ Course information will be updated before the semester.
 
 | Week | Topic | Materials |
 |:---:|---|---|
-| 1 | Course INtroduction |  |
+| 1 | Course Introduction |  |
 | 2 | Linear Algebra #1 |  |
 | 3 | Linear Algebra #2 |  |
 | 4 | Analytic Geometry #1 |  |
