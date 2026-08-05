@@ -170,3 +170,25 @@ html.dark-mode .paper-box {
   font-size: 1.05rem;
   line-height: 1;
 }
+
+/* Theme toggle button */
+.greedy-nav .masthead__menu-item #theme-toggle {
+  display: inline-flex !important;
+  position: static !important;
+  width: auto !important;
+  height: auto !important;
+  min-width: 0 !important;
+  padding: 0.35rem 0.55rem !important;
+  margin: 0 !important;
+
+  border: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+
+  color: inherit !important;
+  cursor: pointer;
+  font-size: 1.05rem;
+  line-height: 1;
+  align-items: center;
+  justify-content: center;
+}
