@@ -96,3 +96,28 @@ $(document).ready(function(){
   });
 
 });
+
+// Dark mode toggle
+document.addEventListener("DOMContentLoaded", function () {
+  const toggle = document.getElementById("theme-toggle");
+  if (!toggle) return;
+
+  const savedTheme = localStorage.getItem("theme");
+
+  if (savedTheme === "dark") {
+    document.documentElement.classList.add("dark-mode");
+    toggle.textContent = "☀️";
+  }
+
+  toggle.addEventListener("click", function () {
+    const isDark = document.documentElement.classList.toggle("dark-mode");
+
+    if (isDark) {
+      localStorage.setItem("theme", "dark");
+      toggle.textContent = "☀️";
+    } else {
+      localStorage.setItem("theme", "light");
+      toggle.textContent = "🌙";
+    }
+  });
+});
