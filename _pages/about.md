@@ -46,25 +46,25 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 
 ### Quantile-Free Uncertainty Quantification in Graph Neural Networks
 Soyoung Park, Hwanjun Song, and **Sungsu Lim**\*  
-*ICML 2026* · Regular Paper · Acceptance Rate: 26.6%
+*ICML 2026* · [Regular Paper](https://openreview.net/forum?id=zlU90YE4EJ) · Acceptance Rate: 26.6%
 
 ---
 
 ### StAR: Adaptive Structure-Aware Reranking for Semantic-Structural Alignment in GraphRAG
 Junghyun Oh and **Sungsu Lim**\*  
-*SIGIR 2026* · Short Paper · Acceptance Rate: 26.7%
+*SIGIR 2026* · [Short Paper](https://dl.acm.org/doi/10.1145/3805712.3809897) · Acceptance Rate: 26.7%
 
 ---
 
 ### DisCoRec: Disentangled Conformity-aware Recommendation with LLM-Guided Multi-View Learning
 Minkyung Song, Soyoung Park\*, and **Sungsu Lim**\*  
-*SIGIR 2026* · Short Paper · Acceptance Rate: 26.7%
+*SIGIR 2026* · [Short Paper](https://dl.acm.org/doi/10.1145/3805712.3809854) · Acceptance Rate: 26.7%
 
 ---
 
 ### MR-Pruner: Training-free Multi-resolution Visual Token Pruning for Multi-modal Large Language Models
 Seunghoon Han, Hyewon Lee, Soyoung Park, Jong-Ryul Lee\*, and **Sungsu Lim**\*  
-*WACV 2026* · Regular Paper · Acceptance Rate: 33.7%
+*WACV 2026* · [Regular Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Han_MR-Pruner_Training-free_Multi-resolution_Visual_Token_Pruning_for_Multi-modal_Large_Language_WACV_2026_paper.pdf) · Acceptance Rate: 33.7%
 
 
 # 🎖 Selected Honors and Awards
