@@ -1,4 +1,33 @@
 <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const toggle = document.getElementById("theme-toggle");
+
+  if (!toggle) return;
+
+  const savedTheme = localStorage.getItem("theme");
+
+  if (savedTheme === "dark") {
+    document.documentElement.classList.add("dark-mode");
+    toggle.textContent = "☀️";
+  } else {
+    toggle.textContent = "🌙";
+  }
+
+  toggle.addEventListener("click", function () {
+    const darkMode = document.documentElement.classList.toggle("dark-mode");
+
+    if (darkMode) {
+      localStorage.setItem("theme", "dark");
+      toggle.textContent = "☀️";
+    } else {
+      localStorage.setItem("theme", "light");
+      toggle.textContent = "🌙";
+    }
+  });
+});
+</script>
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
