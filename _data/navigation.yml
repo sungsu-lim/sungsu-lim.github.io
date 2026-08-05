@@ -10,4 +10,4 @@ main:
     url: "/#publications"
 
   - title: "Math4AI"
-    url: "/#math4ai"
+    url: "/math4ai/"
