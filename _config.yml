@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Sungsu Lim"
-  avatar           : "images/sungsu2023.png"
+  avatar           : "/images/sungsu2023.png"
   bio              : "Associate Professor, Chungnam National University"
   location         : "Daejeon, South Korea"
   employer         : "Chungnam National University"
