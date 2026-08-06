@@ -3,11 +3,11 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
-
   - title: "Publications"
     url: "/publications/"
+
+  - title: "Blog"
+    url: "/blog/"
 
   - title: "Math4AI"
     url: "/math4ai/"
