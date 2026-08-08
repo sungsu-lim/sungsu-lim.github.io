@@ -11,6 +11,10 @@ For the complete and up-to-date publication list, please see my [Google Scholar]
 
 # 2026
 
+### [C24] Who Should Teach? Confidence-Aware Dual-Teacher Learning for Few-Shot Node Classification on Text-Attributed Graphs
+Hojin Kim, Sujin Yoon, **Sungsu Lim**, Dongwon Lee, and David Yoon Suk Kang\*
+*CIKM 2026* · Short Paper · Acceptance Rate: 30.9%
+
 ### [C23] StAR: Adaptive Structure-Aware Reranking for Semantic-Structural Alignment in GraphRAG
 Junghyun Oh and **Sungsu Lim**\*  
 *SIGIR 2026* · Short Paper · Acceptance Rate: 26.7%
