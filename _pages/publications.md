@@ -50,6 +50,10 @@ Jaewook Seol, Hyejin Lee, and **Sungsu Lim**\*
 ​Jun-Hyoung Park, Young Choon Park, Hyunu Chang, Heechol Choi, Sunghwan Choi, and **Sungsu Lim**\*  
 *Plasma Sources Science and Technology*, In Revision
 
+### [J] Survey on Heterogeneous Graph Embedding: From the Perspective of Embedding Spaces
+Seunghoon Han, Junghyun Oh, Beomjin Kim, Jongmin Park, David Yoon Suk Kang, Dongwon Lee, and **Sungsu Lim**\*  
+In Preparation
+
 ### [J] (Work on topological water networks)
 Re Gin Jeoung et al.  
 In Preparation
