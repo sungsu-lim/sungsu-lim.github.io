@@ -50,6 +50,10 @@ Jaewook Seol, Hyejin Lee, and **Sungsu Lim**\*
 ​Jun-Hyoung Park, Young Choon Park, Hyunu Chang, Heechol Choi, Sunghwan Choi, and **Sungsu Lim**\*  
 *Plasma Sources Science and Technology*, In Revision
 
+### [J] (Work on topological water networks)
+Re Gin Jeoung et al.  
+In Preparation
+
 ### [C] (Work on traffic forecasting)
 Daniel Y. Lee, Seungwon Shin, Seunghoon Han, **Sungsu Lim**, and Susik Yoon\*  
 *Top-tier Conference* · Regular Paper · Submitted
@@ -74,9 +78,13 @@ Soyoung Park, Yeon-Chang Lee, and **Sungsu Lim**\*
 Jin-woo Lee, Minkyung Song, Junghyun Oh, Seunghoon Han, Soyoung Park, Sungsu Lim, and Gwangseon Jang  
 *Top-tier Conference* · Regular Paper · In Preparation
 
-### [C] (Work on recommendation with LLM)
+### [C] (Work on recommendation via Mixture-of Experts)
 Minkyung Song, Jin-woo Lee\*, and **Sungsu Lim**\*  
 *Top-tier Conference* · Short Paper · In Preparation
+
+### [C] (Work on continual multi-agent reasoning)
+Jin-woo Lee†, Minkyung Song†, et al.  
+*Top-tier Conference* · Regular Paper · In Preparation
 
 ### [P] (Work on retrieval-augmented classification with LLM)
 Chanuk Lim†, Gwangseon Jang†, Kyong-Ha Lee, Sangkeun Jung, and **Sungsu Lim**\*  
@@ -85,14 +93,6 @@ Preprint
 ### [P] (Work on heterogeneous GNNs)
 Jongmin Park, Seunghoon Han, Junhyeong Lee, **Sungsu Lim**, and Seunghwa Ryu\*  
 Preprint
-
-### [P] (Work on continual multi-agent reasoning)
-Jin-woo Lee†, Minkyung Song†, et al.  
-In Preparation
-
-### [P] (Work on topological water networks)
-Re Gin Jeoung et al.  
-In Preparation
 
 
 # 2026
