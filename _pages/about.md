@@ -103,7 +103,11 @@ I have led the [Data Intelligence Lab (DILAB)](https://www.cnudi.com/) at Chungn
 
 📌 [DILAB 2026 Open Lab Materials](https://drive.google.com/drive/folders/1pWMrR6roJSVIM6VxuWWHNx3PQeg9yfk0?usp=sharing)
 
-Our group has graduated 5 Ph.D. and 5 M.S. full-time students. Our Ph.D. alumni are [Hwan Kim](https://scholar.google.com/citations?user=V2TxDWcAAAAJ) (M.I.Cube Solution), [Soohwan Jeong](https://scholar.google.com/citations?user=piMrsTcAAAAJ) (ADD), [Jeongseon Kim](https://ksp.etri.re.kr/ksp/user/7ce9b688-2cd9-419b-a808-58fc29a917f3) (ETRI), [Jongmin Park](https://scholar.google.com/citations?user=YvsYgPYAAAAJ) (ETRI), and [Soyoung Park](https://scholar.google.com/citations?user=gVs80sgAAAAJ) (UNIST Postdoc). Our students have received research fellowships and awards from NRF Korea, KISTI, KIISE, and other academic and industry organizations.
+📢 We are recruiting motivated graduate students and postdoctoral researchers. Please contact me via [email](mailto:sungsu@cnu.ac.kr) if you are interested.
+
+Our group currently has 2 Ph.D. and 2 M.S. full-time students ([Seunghoon Han](https://scholar.google.com/citations?user=HATQ8zsAAAAJ), Kwanhee Lee, Minkyung Song, and Junghyun Oh). Since 2018, we have graduated 5 Ph.D. and 5 M.S. full-time students. Our Ph.D. alumni are [Hwan Kim](https://scholar.google.com/citations?user=V2TxDWcAAAAJ) (M.I.Cube Solution), [Soohwan Jeong](https://scholar.google.com/citations?user=piMrsTcAAAAJ) (ADD), [Jeongseon Kim](https://ksp.etri.re.kr/ksp/user/7ce9b688-2cd9-419b-a808-58fc29a917f3) (ETRI), [Jongmin Park](https://scholar.google.com/citations?user=YvsYgPYAAAAJ) (ETRI), and [Soyoung Park](https://scholar.google.com/citations?user=gVs80sgAAAAJ) (UNIST Postdoc).
+
+Our students have received research fellowships and awards from NRF Korea, NST, KISTI, Alibaba, and others.
 
 
 # 🎓 Teaching
@@ -120,10 +124,9 @@ Selected courses at Chungnam National University:
 
 # 🤝 Professional Service
 
-- **Poster Chair**, [KDD 2026](https://kdd2026.kdd.org/)
-- **Organizing Committee**: KDD, BigComp, KCC, KDBC, and other conferences
-- **Program Committee**: AAAI, SIGIR, CIKM, DASFAA, PAKDD, ECAI, BigComp, and others
-- **Editorial Board Member**: Frontiers in Big Data, Journal of KIISE, and Communications of KIISE
+- **Organizing Committee**: [KDD 2026](https://kdd2026.kdd.org/acm-kdd-2026-organizing-committee/) (Poster Chair), [BigComp 2027](https://bigcomp2027-website.pages.dev/organization/) (Social Media Chair), [KCC 2026](https://www.kiise.or.kr/conference/main/getContent.do?CC=kcc&CS=2026&content_no=2417&PARENT_ID=010100) (Workshop Chair), etc.
+- **Program Committee**: AAAI, SIGIR, CIKM, DASFAA, PAKDD, ECAI, BigComp, etc.
+- **Editorial Board Member**: Frontiers in Big Data, Journal of KIISE, Communications of KIISE, etc.
 - **Reviewer** for journals including Proceedings of the IEEE, IEEE TKDE, VLDB Journal, and Information Sciences
 
 
