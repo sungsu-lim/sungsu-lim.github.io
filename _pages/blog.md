@@ -2,23 +2,19 @@
 permalink: /blog/
 title: "Blog"
 author_profile: true
-layout: single
+layout: default
 ---
 
+# 📝 Blog
+
 {% for post in site.posts %}
-  <article class="archive__item">
+### [{{ post.title }}]({{ post.url | relative_url }})
 
-    <h2 class="archive__item-title">
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </h2>
+*{{ post.date | date: "%B %-d, %Y" }}*
 
-    <p class="page__meta">
-      {{ post.date | date: "%B %-d, %Y" }}
-    </p>
+{% if post.excerpt %}
+{{ post.excerpt | strip_html | truncate: 180 }}
+{% endif %}
 
-    {% if post.excerpt %}
-      <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
-    {% endif %}
-
-  </article>
+---
 {% endfor %}
