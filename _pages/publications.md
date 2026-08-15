@@ -357,7 +357,7 @@ Yishi Lin\*, John C.S. Lui, Kyomin Jung, and **Sungsu Lim**
 
 ### [C2] LinkSCAN*: Overlapping Community Detection Using the Link-Space Transformation
 **Sungsu Lim**, Seungwoo Ryu, Sejeong Kwon, Kyomin Jung, and Jae-Gil Lee  
-*ICDE 2014* · Acceptance Rate: 20.0%
+*ICDE 2014* · Acceptance Rate: 20.0% <span class='show_paper_citations' data='cMQT0a8AAAAJ:zYLM7Y9cAGgC'></span>
 
 ### [C1] Stability of the Max-Weight Protocol in Adversarial Wireless Networks
 **Sungsu Lim**, Kyomin Jung, and Matthew Andrews  
