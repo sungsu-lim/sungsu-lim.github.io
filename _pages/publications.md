@@ -4,7 +4,7 @@ title: "Publications"
 author_profile: true
 ---
 
-For the complete and up-to-date publication list, please see my [Google Scholar](https://scholar.google.com/citations?user=cMQT0a8AAAAJ) (<span id="total_cit">—</span> citations).
+I have published 50+ peer-reviewed papers in international journals and conferences, with <span id="total_cit">—</span> Google Scholar citations. For the complete and up-to-date list, please see my [Google Scholar](https://scholar.google.com/citations?user=cMQT0a8AAAAJ).
 
 \* Corresponding author · † Equal contribution
 
@@ -267,7 +267,7 @@ Junghoon Kim, Jungeun Kim\*, Hyun Ji Jeong, and **Sungsu Lim**\*
 
 ### [J13] Graph Anomaly Detection with Graph Neural Networks: Current Status and Challenges
 Hwan Kim, Byung Suk Lee, Won-Yong Shin, and **Sungsu Lim**\*  
-*IEEE Access*, Oct. 2022
+*IEEE Access*, Oct. 2022 <span class='show_paper_citations' data='cMQT0a8AAAAJ:RGFaLdJalmkC'></span>
 
 ### [J12] LEHAN: Link-feature Enhanced Heterogeneous Graph Attention Network
 Jongmin Park and **Sungsu Lim**\*  
