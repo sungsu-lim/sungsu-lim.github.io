@@ -8,11 +8,97 @@ For the complete and up-to-date publication list, please see my [Google Scholar]
 
 \* Corresponding author · † Equal contribution
 
+# Preprints
+
+### [J] Metapath-based Hyperbolic Contrastive Learning for Heterogeneous Graph Embedding
+Jongmin Park, Seunghoon Han, Won-Yong Shin, and **Sungsu Lim**\*  
+*IEEE Transactions on Network Science and Engineering (TNSE)*, In Revision
+
+### [J] Hyperbolic Heterogeneous Graph Transformer
+Jongmin Park†, Seunghoon Han†, Hyewon Lee, Won-Yong Shin, and **Sungsu Lim**\*  
+*IEEE Transactions on Network Science and Engineering (TNSE)*, Under Review
+
+### [J] Structure-Aware Conformal Calibration for Uncertainty Quantification in Recommender Systems
+Soyoung Park, Minkyung Song, and **Sungsu Lim**\*  
+*Information Sciences*, Under Review
+
+### [J] TriBaL: Graph-Based Denoising of LLM-ExtractedSigned Knowledge Graphs via Triangle–Balance Learning
+Jeongseon Kim, Sanghun Jeon, Hyunjin Choo, and **Sungsu Lim**\*  
+*Information Sciences*, Under Review
+
+### [J] WSCAN++: A Robust Density-Based Clustering Framework for Weighted Networks
+Taejoon Han, Seungchan Choi, Hyewon Kim, Minseok Kim, Dahee Kim, Junghoon Kim\*, **Sungsu Lim**, and Seongil Wi  
+*Information Sciences*, Submitted
+
+### [J] Understanding Clustering Behaviour through Structural Similarity Design in SCAN-based Graph Clustering
+Dahee Kim, Taejoon Han, Junghoon Kim\*, and **Sungsu Lim**  
+*Information Sciences*, In Preparation
+
+### [J] GLaD: Global and Label-aware Document Modeling with Heterogeneous Graphs for Multi-Label Text Classification
+Soohwan Jeong, Jongmin Park, Susik Yoon\*, and **Sungsu Lim**\*  
+*Knowledge-Based Systems*, Submitted
+
+### [J] Beyond Direct AI Exposure: Measuring Network-Mediated Labor Risk Through Multilayer Occupational Networks
+Soyoung Park†, Junghyun Oh†, Minkyung Song, Jin-woo Lee, Jincheul Jang, and **Sungsu Lim**\*  
+*EPJ Data Science*, In Preparation
+
+### [J] UNITE: Unified Table Extraction Pipeline for XML Structuring in Scientific Documents
+Jaewook Seol, Hyejin Lee, and **Sungsu Lim**\*  
+*International Journal on Document Analysis and Recognition*, Submitted
+
+### [J] Prediction of Total Ionization Cross Sections Using Graph Neural Networks
+​Jun-Hyoung Park, Young Choon Park, Hyunu Chang, Heechol Choi, Sunghwan Choi, and **Sungsu Lim**\*  
+*Plasma Sources Science and Technology*, In Revision
+
+### [C] (Work on traffic forecasting)
+Daniel Y. Lee, Seungwon Shin, Seunghoon Han, **Sungsu Lim**, and Susik Yoon\*  
+*Top-tier Conference* · Regular Paper · Submitted
+
+### [C] (Work on traffic forecasting)
+Seunghoon Han, Junghyun Oh, Jongmin Park, and **Sungsu Lim**\*  
+*Top-tier Conference* · Regular Paper · Submitted
+
+### [C] (Work on effective VLLMs)
+Seunghoon Han, Junghyun Oh, Jin-woo Lee, and **Sungsu Lim**\*  
+*Top-tier Conference* · Regular Paper · Submitted
+
+### [C] (Work on efficient GraphRAG)
+Junghyun Oh, Jin-woo Lee\*, and **Sungsu Lim**\*  
+*Top-tier Conference* · Short Paper · Submitted
+
+### [C] (Work on fairness in GNNs)
+Soyoung Park, Yeon-Chang Lee, and **Sungsu Lim**\*  
+*Top-tier Conference* · Regular Paper · In Preparation
+
+### [C] (Work on KV cache translation)
+Jin-woo Lee, Minkyung Song, Junghyun Oh, Seunghoon Han, Soyoung Park, Sungsu Lim, and Gwangseon Jang  
+*Top-tier Conference* · Regular Paper · In Preparation
+
+### [C] (Work on recommendation with LLM)
+Minkyung Song, Jin-woo Lee\*, and **Sungsu Lim**\*  
+*Top-tier Conference* · Short Paper · In Preparation
+
+### [P] (Work on retrieval-augmented classification with LLM)
+Chanuk Lim†, Gwangseon Jang†, Kyong-Ha Lee, Sangkeun Jung, and **Sungsu Lim**\*  
+Preprint
+
+### [P] (Work on heterogeneous GNNs)
+Jongmin Park, Seunghoon Han, Junhyeong Lee, **Sungsu Lim**, and Seunghwa Ryu\*  
+Preprint
+
+### [P] (Work on continual multi-agent reasoning)
+Jin-woo Lee†, Minkyung Song†, et al.  
+In Preparation
+
+### [P] (Work on topological water networks)
+Re Gin Jeoung et al.  
+In Preparation
+
 
 # 2026
 
 ### [C24] Who Should Teach? Confidence-Aware Dual-Teacher Learning for Few-Shot Node Classification on Text-Attributed Graphs
-Hojin Kim, Sujin Yoon, **Sungsu Lim**, Dongwon Lee, and David Yoon Suk Kang\*
+Hojin Kim, Sujin Yoon, **Sungsu Lim**, Dongwon Lee, and David Yoon Suk Kang\*  
 *CIKM 2026* · Short Paper · Acceptance Rate: 30.9%
 
 ### [C23] StAR: Adaptive Structure-Aware Reranking for Semantic-Structural Alignment in GraphRAG
