@@ -14,10 +14,6 @@ I have published 50+ peer-reviewed papers in international journals and conferen
 Jongmin Park, Seunghoon Han, Won-Yong Shin, and **Sungsu Lim**\*  
 *IEEE Transactions on Network Science and Engineering (TNSE)*, In Revision
 
-### [J] Hyperbolic Heterogeneous Graph Transformer
-Jongmin Park†, Seunghoon Han†, Hyewon Lee, Won-Yong Shin, and **Sungsu Lim**\*  
-*IEEE Transactions on Network Science and Engineering (TNSE)*, Under Review
-
 ### [J] Structure-Aware Conformal Calibration for Uncertainty Quantification in Recommender Systems
 Soyoung Park, Minkyung Song, and **Sungsu Lim**\*  
 *Information Sciences*, Under Review
@@ -25,14 +21,6 @@ Soyoung Park, Minkyung Song, and **Sungsu Lim**\*
 ### [J] TriBaL: Graph-Based Denoising of LLM-ExtractedSigned Knowledge Graphs via Triangle–Balance Learning
 Jeongseon Kim, Sanghun Jeon, Hyunjin Choo, and **Sungsu Lim**\*  
 *Information Sciences*, Under Review
-
-### [J] WSCAN++: A Robust Density-Based Clustering Framework for Weighted Networks
-Taejoon Han, Seungchan Choi, Hyewon Kim, Minseok Kim, Dahee Kim, Junghoon Kim\*, **Sungsu Lim**, and Seongil Wi  
-*Information Sciences*, Submitted
-
-### [J] Understanding Clustering Behaviour through Structural Similarity Design in SCAN-based Graph Clustering
-Dahee Kim, Taejoon Han, Junghoon Kim\*, and **Sungsu Lim**  
-*Information Sciences*, In Preparation
 
 ### [J] GLaD: Global and Label-aware Document Modeling with Heterogeneous Graphs for Multi-Label Text Classification
 Soohwan Jeong, Jongmin Park, Susik Yoon\*, and **Sungsu Lim**\*  
@@ -90,12 +78,24 @@ Minkyung Song, Jin-woo Lee\*, and **Sungsu Lim**\*
 Jin-woo Lee†, Minkyung Song†, et al.  
 *Top-tier Conference* · Regular Paper · In Preparation
 
-### [P] (Work on retrieval-augmented classification with LLM)
-Chanuk Lim†, Gwangseon Jang†, Kyong-Ha Lee, Sangkeun Jung, and **Sungsu Lim**\*  
+### [C] Hyperbolic Heterogeneous Graph Transformer
+Jongmin Park†, Seunghoon Han†, Hyewon Lee, Won-Yong Shin, and **Sungsu Lim**\*  
+*Top-tier Conference* · Regular Paper · Submitted
+
+### [C] (Work on heterogeneous GNNs)
+Jongmin Park, Seunghoon Han, Junhyeong Lee, **Sungsu Lim**, and Seunghwa Ryu\*  
+*Top-tier Conference* · Regular Paper · In Preparation
+
+### [P] WSCAN++: A Robust Density-Based Clustering Framework for Weighted Networks
+Taejoon Han, Seungchan Choi, Hyewon Kim, Minseok Kim, Dahee Kim, Junghoon Kim\*, **Sungsu Lim**, and Seongil Wi  
 Preprint
 
-### [P] (Work on heterogeneous GNNs)
-Jongmin Park, Seunghoon Han, Junhyeong Lee, **Sungsu Lim**, and Seunghwa Ryu\*  
+### [P] Understanding Clustering Behaviour through Structural Similarity Design in SCAN-based Graph Clustering
+Dahee Kim, Taejoon Han, Junghoon Kim\*, and **Sungsu Lim**  
+Preprint
+
+### [P] (Work on retrieval-augmented classification with LLM)
+Chanuk Lim†, Gwangseon Jang†, Kyong-Ha Lee, Sangkeun Jung, and **Sungsu Lim**\*  
 Preprint
 
 
