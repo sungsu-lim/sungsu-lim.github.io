@@ -63,8 +63,16 @@ Junghyun Oh, Jin-woo Lee\*, and **Sungsu Lim**\*
 *Top-tier Conference* · Short Paper · Submitted
 
 ### [C] (Work on fairness in GNNs)
-Soyoung Park, Yeon-Chang Lee, and **Sungsu Lim**\*  
-*Top-tier Conference* · Regular Paper · In Preparation
+Soyoung Park and **Sungsu Lim**\*  
+*Top-tier Conference* · Regular Paper · Submitted
+
+### [C] (Work on heterogeneous graph embedding)
+Jongmin Park†, Seunghoon Han†, Hyewon Lee, Won-Yong Shin, and **Sungsu Lim**\*  
+*Top-tier Conference* · Regular Paper · Submitted
+
+### [C] WSCAN++: A Robust Density-Based Clustering Framework for Weighted Networks
+Taejoon Han, Seungchan Choi, Hyewon Kim, Minseok Kim, Dahee Kim, Junghoon Kim\*, **Sungsu Lim**, and Seongil Wi  
+*Top-tier Conference* · Regular Paper · Submitted
 
 ### [C] (Work on KV cache translation)
 Jin-woo Lee, Minkyung Song, Junghyun Oh, Seunghoon Han, Soyoung Park, Sungsu Lim, and Gwangseon Jang  
@@ -78,17 +86,9 @@ Minkyung Song, Jin-woo Lee\*, and **Sungsu Lim**\*
 Jin-woo Lee†, Minkyung Song†, et al.  
 *Top-tier Conference* · Regular Paper · In Preparation
 
-### [C] Hyperbolic Heterogeneous Graph Transformer
-Jongmin Park†, Seunghoon Han†, Hyewon Lee, Won-Yong Shin, and **Sungsu Lim**\*  
-*Top-tier Conference* · Regular Paper · Submitted
-
 ### [C] (Work on heterogeneous GNNs)
 Jongmin Park, Seunghoon Han, Junhyeong Lee, **Sungsu Lim**, and Seunghwa Ryu\*  
 *Top-tier Conference* · Regular Paper · In Preparation
-
-### [P] WSCAN++: A Robust Density-Based Clustering Framework for Weighted Networks
-Taejoon Han, Seungchan Choi, Hyewon Kim, Minseok Kim, Dahee Kim, Junghoon Kim\*, **Sungsu Lim**, and Seongil Wi  
-Preprint
 
 ### [P] Understanding Clustering Behaviour through Structural Similarity Design in SCAN-based Graph Clustering
 Dahee Kim, Taejoon Han, Junghoon Kim\*, and **Sungsu Lim**  
