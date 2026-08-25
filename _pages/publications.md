@@ -66,7 +66,7 @@ Junghyun Oh, Jin-woo Lee\*, and **Sungsu Lim**\*
 Jongmin Park†, Seunghoon Han†, Hyewon Lee, Won-Yong Shin, and **Sungsu Lim**\*  
 *Top-tier Conference* · Regular Paper · Submitted
 
-### [C] WSCAN++: A Robust Density-Based Clustering Framework for Weighted Networks
+### [C] (work on graph clustering)
 Taejoon Han, Seungchan Choi, Hyewon Kim, Minseok Kim, Dahee Kim, Junghoon Kim\*, **Sungsu Lim**, and Seongil Wi  
 *Top-tier Conference* · Regular Paper · Submitted
 
