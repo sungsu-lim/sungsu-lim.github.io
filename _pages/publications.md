@@ -30,13 +30,13 @@ Soohwan Jeong, Jongmin Park, Susik Yoon\*, and **Sungsu Lim**\*
 Soyoung Park†, Junghyun Oh†, Minkyung Song, Jin-woo Lee, Jincheul Jang, and **Sungsu Lim**\*  
 *EPJ Data Science*, In Preparation
 
-### [J] UNITE: Unified Table Extraction Pipeline for XML Structuring in Scientific Documents
-Jaewook Seol, Hyejin Lee, and **Sungsu Lim**\*  
-*International Journal on Document Analysis and Recognition*, Submitted
-
 ### [J] Prediction of Total Ionization Cross Sections Using Graph Neural Networks
 ​Jun-Hyoung Park, Young Choon Park, Hyunu Chang, Heechol Choi, Sunghwan Choi, and **Sungsu Lim**\*  
 *Plasma Sources Science and Technology*, In Revision
+
+### [J] UNITE: Unified Table Extraction Pipeline for XML Structuring in Scientific Documents
+Jaewook Seol, Hyejin Lee, and **Sungsu Lim**\*  
+In Preparation
 
 ### [J] Survey on Heterogeneous Graph Embedding: From the Perspective of Embedding Spaces
 Seunghoon Han, Junghyun Oh, Beomjin Kim, Jongmin Park, David Yoon Suk Kang, Dongwon Lee, and **Sungsu Lim**\*  
@@ -62,10 +62,6 @@ Seunghoon Han, Junghyun Oh, Jin-woo Lee, and **Sungsu Lim**\*
 Junghyun Oh, Jin-woo Lee\*, and **Sungsu Lim**\*  
 *Top-tier Conference* · Short Paper · Submitted
 
-### [C] (Work on fairness in GNNs)
-Soyoung Park and **Sungsu Lim**\*  
-*Top-tier Conference* · Regular Paper · Submitted
-
 ### [C] (Work on heterogeneous graph embedding)
 Jongmin Park†, Seunghoon Han†, Hyewon Lee, Won-Yong Shin, and **Sungsu Lim**\*  
 *Top-tier Conference* · Regular Paper · Submitted
@@ -90,7 +86,11 @@ Jin-woo Lee†, Minkyung Song†, et al.
 Jongmin Park, Seunghoon Han, Junhyeong Lee, **Sungsu Lim**, and Seunghwa Ryu\*  
 *Top-tier Conference* · Regular Paper · In Preparation
 
-### [P] Understanding Clustering Behaviour through Structural Similarity Design in SCAN-based Graph Clustering
+### [P] (Work on fairness in GNNs)
+Soyoung Park and **Sungsu Lim**\*  
+Preprint
+
+### [P] (work on graph clustering)
 Dahee Kim, Taejoon Han, Junghoon Kim\*, and **Sungsu Lim**  
 Preprint
 
