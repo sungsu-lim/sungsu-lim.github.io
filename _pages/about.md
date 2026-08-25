@@ -85,7 +85,7 @@ Seunghoon Han, Hyewon Lee, Soyoung Park, Jong-Ryul Lee\*, and **Sungsu Lim**\*
 # 💼 Experience
 
 - *2023–present*: Associate Professor, Chungnam National University
-- *2024–2025*: Advisor & Visiting Researcher, Nota AI, Sunnyvale, CA, USA
+- *2024–2025*: Advisor & Visiting Researcher, [Nota AI](https://www.nota.ai/), Sunnyvale, CA, USA
 - *2018–2023*: Assistant Professor, Chungnam National University
 - *2013–2016*: Research Assistant, Data Mining Lab., KAIST (Advisor: Jae-Gil Lee)
 - *2010–2013*: Research Assistant, Applied Algorithm Lab., KAIST (Advisor: Kyomin Jung)
@@ -107,7 +107,7 @@ I have led the [Data Intelligence Lab (DILAB)](https://www.cnudi.com/) at Chungn
 
 📢 We are recruiting motivated graduate students and postdoctoral researchers. Please contact me via [email](mailto:sungsu@cnu.ac.kr) if you are interested.
 
-Our group currently has 2 Ph.D. and 2 M.S. full-time students ([Seunghoon Han](https://scholar.google.com/citations?user=HATQ8zsAAAAJ), Kwanhee Lee, Minkyung Song, and Junghyun Oh). Since 2018, we have graduated 5 Ph.D. and 5 M.S. full-time students. Our Ph.D. alumni are [Hwan Kim](https://scholar.google.com/citations?user=V2TxDWcAAAAJ) (M.I.Cube Solution), [Soohwan Jeong](https://scholar.google.com/citations?user=piMrsTcAAAAJ) (ADD), [Jeongseon Kim](https://ksp.etri.re.kr/ksp/user/7ce9b688-2cd9-419b-a808-58fc29a917f3) (ETRI), [Jongmin Park](https://scholar.google.com/citations?user=YvsYgPYAAAAJ) (ETRI), and [Soyoung Park](https://scholar.google.com/citations?user=gVs80sgAAAAJ).
+Our group currently has 2 Ph.D. and 2 M.S. full-time students ([Seunghoon Han](https://scholar.google.com/citations?user=HATQ8zsAAAAJ), Kwanhee Lee, Minkyung Song, and Junghyun Oh). Since 2018, we have graduated 5 Ph.D. and 5 M.S. full-time students. Our Ph.D. alumni are [Hwan Kim](https://scholar.google.com/citations?user=V2TxDWcAAAAJ) (M.I.Cube Solution), [Soohwan Jeong](https://scholar.google.com/citations?user=piMrsTcAAAAJ) (ADD), [Jeongseon Kim](https://ksp.etri.re.kr/ksp/user/7ce9b688-2cd9-419b-a808-58fc29a917f3) (ETRI), [Jongmin Park](https://scholar.google.com/citations?user=YvsYgPYAAAAJ) (ETRI), and Soyoung Park.
 
 Our students have received research fellowships and awards from NRF Korea, NST, KISTI, Alibaba, and others.
 
@@ -119,6 +119,7 @@ Selected courses at Chungnam National University:
 - Machine Learning with Graphs
 - Topics in Data Mining
 - Deep Learning
+- Data Science
 - [Mathematics for AI](/math4ai/)
 - Linear Algebra
 - Discrete Mathematics
