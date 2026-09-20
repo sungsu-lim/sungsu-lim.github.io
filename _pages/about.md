@@ -123,7 +123,7 @@ Selected courses at Chungnam National University:
 - Topics in Data Mining
 - Deep Learning
 - Data Science
-- [Mathematics for AI](/math4ai/)
+- Mathematics for AI
 - Linear Algebra
 - Discrete Mathematics
 
