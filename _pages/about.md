@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Associate Professor in the School of Computing and AI at Chungnam National University (CNU), where I lead the Data Intelligence Lab (DILAB).
+I am an Associate Professor in the School of Computing and AI at Chungnam National University (CNU), where I lead the [Data Intelligence Lab (DILAB)](https://cnudi.github.io/).
 
 I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Jae-Gil Lee](https://www.kaistdmlab.org/jaegil) and Prof. [Kyomin Jung](https://milab.snu.ac.kr/kjung/). My research interests include **graph machine learning, trustworthy AI, GraphRAG and LLM applications, and recommender systems**, with broader interests in data mining and knowledge engineering.
 
@@ -103,7 +103,7 @@ Seunghoon Han, Hyewon Lee, Soyoung Park, Jong-Ryul Lee\*, and **Sungsu Lim**\*
 
 # 👥 Data Intelligence Lab
 
-I have led the [Data Intelligence Lab (DILAB)](https://www.cnudi.com/) at Chungnam National University since 2018. Our group conducts research on graph machine learning, trustworthy AI, GraphRAG and LLM applications, and recommender systems and information retrieval.
+I have led the [Data Intelligence Lab (DILAB)](https://cnudi.github.io/) at Chungnam National University since 2018. Our group conducts research on graph machine learning, trustworthy AI, GraphRAG and LLM applications, and recommender systems and information retrieval.
 
 📌 [DILAB 2026 Open Lab Materials](https://drive.google.com/drive/folders/1pWMrR6roJSVIM6VxuWWHNx3PQeg9yfk0?usp=sharing)
 
