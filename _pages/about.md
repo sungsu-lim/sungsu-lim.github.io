@@ -49,6 +49,62 @@ redirect_from:
   border: 0;
   border-top: 1px solid #edf0f2;
 }
+
+/* Thumbnail blocks */
+.feature-item {
+  display: flex;
+  gap: 1.25em;
+  align-items: flex-start;
+  margin: 0 0 1.7em 0;
+}
+
+.feature-thumb {
+  flex: 0 0 145px;
+  width: 145px;
+}
+
+.feature-thumb img {
+  width: 100%;
+  height: 105px;
+  object-fit: cover;
+  border-radius: 5px;
+  border: 1px solid #e5e8eb;
+}
+
+.feature-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.feature-content h3 {
+  margin: 0 0 0.35em 0;
+  color: #252a2e;
+  font-size: 1.02em;
+  line-height: 1.45;
+}
+
+.feature-content p {
+  margin: 0 0 0.35em 0;
+}
+
+@media (max-width: 600px) {
+  .feature-item {
+    display: block;
+  }
+
+  .feature-thumb {
+    width: 100%;
+    margin-bottom: 0.7em;
+  }
+
+  .feature-thumb img {
+    width: 100%;
+    height: auto;
+    max-height: 180px;
+    object-fit: cover;
+  }
+}
+  
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -88,27 +144,49 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 
 # 📝 Selected Recent Publications
 
-### Quantile-Free Uncertainty Quantification in Graph Neural Networks
-Soyoung Park, Hwanjun Song, and **Sungsu Lim**\*  
-*ICML 2026* · [Regular Paper](https://openreview.net/forum?id=zlU90YE4EJ) · Acceptance Rate: 26.6%
+<div class="feature-item">
+  <div class="feature-thumb">
+    <img src="/images/publications/qpignn.png" alt="QpiGNN">
+  </div>
+  <div class="feature-content">
+    <h3>Quantile-Free Uncertainty Quantification in Graph Neural Networks</h3>
+    <p>Soyoung Park, Hwanjun Song, and <strong>Sungsu Lim</strong>*</p>
+    <p><em>ICML 2026</em> · <a href="https://openreview.net/forum?id=zlU90YE4EJ">Regular Paper</a> · Acceptance Rate: 26.6%</p>
+  </div>
+</div>
 
----
+<div class="feature-item">
+  <div class="feature-thumb">
+    <img src="/images/publications/star.png" alt="StAR">
+  </div>
+  <div class="feature-content">
+    <h3>StAR: Adaptive Structure-Aware Reranking for Semantic-Structural Alignment in GraphRAG</h3>
+    <p>Junghyun Oh and <strong>Sungsu Lim</strong>*</p>
+    <p><em>SIGIR 2026</em> · <a href="https://dl.acm.org/doi/10.1145/3805712.3809897">Short Paper</a> · Acceptance Rate: 26.7%</p>
+  </div>
+</div>
 
-### StAR: Adaptive Structure-Aware Reranking for Semantic-Structural Alignment in GraphRAG
-Junghyun Oh and **Sungsu Lim**\*  
-*SIGIR 2026* · [Short Paper](https://dl.acm.org/doi/10.1145/3805712.3809897) · Acceptance Rate: 26.7%
+<div class="feature-item">
+  <div class="feature-thumb">
+    <img src="/images/publications/discorec.png" alt="DisCoRec">
+  </div>
+  <div class="feature-content">
+    <h3>DisCoRec: Disentangled Conformity-aware Recommendation with LLM-Guided Multi-View Learning</h3>
+    <p>Minkyung Song, Soyoung Park*, and <strong>Sungsu Lim</strong>*</p>
+    <p><em>SIGIR 2026</em> · <a href="https://dl.acm.org/doi/10.1145/3805712.3809854">Short Paper</a> · Acceptance Rate: 26.7%</p>
+  </div>
+</div>
 
----
-
-### DisCoRec: Disentangled Conformity-aware Recommendation with LLM-Guided Multi-View Learning
-Minkyung Song, Soyoung Park\*, and **Sungsu Lim**\*  
-*SIGIR 2026* · [Short Paper](https://dl.acm.org/doi/10.1145/3805712.3809854) · Acceptance Rate: 26.7%
-
----
-
-### MR-Pruner: Training-free Multi-resolution Visual Token Pruning for Multi-modal Large Language Models
-Seunghoon Han, Hyewon Lee, Soyoung Park, Jong-Ryul Lee\*, and **Sungsu Lim**\*  
-*WACV 2026* · [Regular Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Han_MR-Pruner_Training-free_Multi-resolution_Visual_Token_Pruning_for_Multi-modal_Large_Language_WACV_2026_paper.pdf) · Acceptance Rate: 33.7%
+<div class="feature-item">
+  <div class="feature-thumb">
+    <img src="/images/publications/mr-pruner.png" alt="MR-Pruner">
+  </div>
+  <div class="feature-content">
+    <h3>MR-Pruner: Training-free Multi-resolution Visual Token Pruning for Multi-modal Large Language Models</h3>
+    <p>Seunghoon Han, Hyewon Lee, Soyoung Park, Jong-Ryul Lee*, and <strong>Sungsu Lim</strong>*</p>
+    <p><em>WACV 2026</em> · <a href="https://openaccess.thecvf.com/content/WACV2026/papers/Han_MR-Pruner_Training-free_Multi-resolution_Visual_Token_Pruning_for_Multi-modal_Large_Language_WACV_2026_paper.pdf">Regular Paper</a> · Acceptance Rate: 33.7%</p>
+  </div>
+</div>
 
 
 # 🎖 Selected Honors and Awards
@@ -146,9 +224,17 @@ Seunghoon Han, Hyewon Lee, Soyoung Park, Jong-Ryul Lee\*, and **Sungsu Lim**\*
 
 # 👥 Data Intelligence Lab
 
-I lead the [Data Intelligence Lab (DILAB)](https://cnudi.github.io/), focusing on graph machine learning, trustworthy AI, GraphRAG and LLMs, and recommender systems.
-
-📢 We are recruiting graduate students. Please contact me via [email](mailto:sungsu@cnu.ac.kr) if you are interested.
+<div class="feature-item">
+  <div class="feature-thumb">
+    <a href="https://cnudi.github.io/">
+      <img src="/images/dilab.jpg" alt="Data Intelligence Lab">
+    </a>
+  </div>
+  <div class="feature-content">
+    <p>I lead the <a href="https://cnudi.github.io/">Data Intelligence Lab (DILAB)</a>, focusing on graph machine learning, trustworthy AI, GraphRAG and LLMs, and recommender systems.</p>
+    <p>📢 We are recruiting graduate students. Please contact me via <a href="mailto:sungsu@cnu.ac.kr">email</a> if you are interested.</p>
+  </div>
+</div>
 
 
 # 🎓 Teaching
