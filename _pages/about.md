@@ -233,8 +233,8 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
     </a>
   </div>
   <div class="feature-content">
-    <p>I lead the <a href="https://cnudi.github.io/">Data Intelligence Lab (DILAB)</a>, focusing on graph machine learning, trustworthy AI, GraphRAG and LLMs, and recommender systems.</p>
-    <p>📢 We are recruiting graduate students. Please contact me via <a href="mailto:sungsu@cnu.ac.kr">email</a> if you are interested.</p>
+    <p>I have led the <a href="https://cnudi.github.io/">Data Intelligence Lab (DILAB)</a> since 2018. Our research focuses on graph machine learning, trustworthy AI, GraphRAG and LLMs, and recommender systems.</p>
+    <p>📢 We are recruiting graduate students. Please contact me at <a href="mailto:sungsu@cnu.ac.kr">sungsu@cnu.ac.kr</a> if interested.</p>
   </div>
 </div>
 
