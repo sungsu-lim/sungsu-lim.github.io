@@ -247,7 +247,7 @@ please see my <a href="https://scholar.google.com/citations?user=cMQT0a8AAAAJ">G
 
 <div class="pub-item">
 
-<div class="pub-title">[P] (Work on fairness in GNNs)</div>
+<div class="pub-title">[C] (Work on fairness in GNNs)</div>
 
 <div class="pub-authors"><span class="advisee">Soyoung Park</span>, Yeon-Chang Lee, and <span class="me">Sungsu Lim</span>*</div>
 
