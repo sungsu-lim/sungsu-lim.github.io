@@ -239,13 +239,11 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 </div>
 
 
-# 🎓 Teaching
+# 🎓 Teaching @ CNU
 
-Selected courses at Chungnam National University:
+- Graduate: Machine Learning with Graphs, Lightweight Deep Learning, Topics in Data Mining, Advanced Algorithms, etc.
 
-**Graduate:** Machine Learning with Graphs, Lightweight Deep Learning, Topics in Data Mining, Advanced Algorithms, etc.
-
-**Undergraduate:** Deep Learning, Data Science, Mathematics for AI, Numerical Analysis, Linear Algebra, Discrete Mathematics, etc.
+- Undergraduate: Deep Learning, Data Science, Math for AI, Numerical Analysis, Linear Algebra, Discrete Math, etc.
 
 
 # 🤝 Professional Service
