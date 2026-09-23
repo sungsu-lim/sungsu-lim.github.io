@@ -37,14 +37,16 @@ author_profile: true
   line-height: 1.55;
 }
 
+/* My name */
 .me {
-  color: #234f73;
-  font-weight: 500;
+  color: #2563a6;
+  font-weight: 600;
 }
 
 /* Current and former advisees */
 .advisee {
-  font-weight: 700;
+  color: #3f4850;
+  font-weight: 750;
 }
 
 .pub-venue {
@@ -88,8 +90,7 @@ please see my <a href="https://scholar.google.com/citations?user=cMQT0a8AAAAJ">G
 </p>
 
 <p class="pub-note">
-  * Corresponding author · † Equal contribution · 
-  <strong>Bold</strong>: Current and former advisees
+  * Corresponding author · † Equal contribution · <strong>Bold</strong> = Advisees
 </p>
 
 <div class="pub-section">Preprints</div>
