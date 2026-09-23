@@ -8,6 +8,49 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+/* Section headings */
+.page__content h1 {
+  margin-top: 2.4em;
+  margin-bottom: 0.9em;
+  padding-bottom: 0.35em;
+  border-bottom: 2px solid #e3edf4;
+  color: #234f73;
+  font-size: 1.45em;
+  font-weight: 700;
+}
+
+/* Lists */
+.page__content li {
+  margin-bottom: 0.32em;
+}
+
+/* Links */
+.page__content a {
+  text-decoration: none;
+}
+
+.page__content a:hover {
+  text-decoration: underline;
+}
+
+/* Publication titles */
+#publications ~ h3 {
+  margin-top: 1.35em;
+  margin-bottom: 0.35em;
+  color: #252a2e;
+  font-size: 1.02em;
+  line-height: 1.45;
+}
+
+/* Publication separators */
+.page__content hr {
+  margin: 1.25em 0;
+  border: 0;
+  border-top: 1px solid #edf0f2;
+}
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -24,21 +67,21 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 
 # 🔥 News
 
-- *2026.08*: 🎉 Our work on **few-shot node classification on text-attributed graphs** was accepted to [CIKM 2026](https://cikm2026.diag.uniroma1.it/).
-- *2026.07*: 🎉 Our work on **quantile-free uncertainty quantification for GNNs** was presented at [ICML 2026](https://icml.cc/Conferences/2026).
-- *2026.07*: 🎉 Two papers on **GraphRAG** and **recommendation** were presented at [SIGIR 2026](https://sigir2026.org/).
-- *2026.03*: 🎉 Our work on **visual token pruning for multimodal LLMs** was presented at [WACV 2026](https://wacv.thecvf.com/Conferences/2026).
-- *2026.02*: 🎉 Our work on **LLM-enhanced citation network representation learning** was presented at [WSDM 2026](https://wsdm-conference.org/2026/).
-- *2026.01*: Received the **CNU President's Commendation for Outstanding Faculty Member**.
-- *2025.11*: 🎉 Two papers on **fair graph learning** and **signed community detection** were presented at [CIKM 2025](https://cikm2025.org/).
+- **2026.08** · 🎉 Our work on **few-shot node classification on text-attributed graphs** was accepted to [CIKM 2026](https://cikm2026.diag.uniroma1.it/).
+- **2026.07** · 🎉 Our work on **quantile-free uncertainty quantification for GNNs** was presented at [ICML 2026](https://icml.cc/Conferences/2026).
+- **2026.07** · 🎉 Two papers on **GraphRAG** and **recommendation** were presented at [SIGIR 2026](https://sigir2026.org/).
+- **2026.03** · 🎉 Our work on **visual token pruning for multimodal LLMs** was presented at [WACV 2026](https://wacv.thecvf.com/Conferences/2026).
+- **2026.02** · 🎉 Our work on **LLM-enhanced citation network representation learning** was presented at [WSDM 2026](https://wsdm-conference.org/2026/).
+- **2026.01** · Received the **CNU President's Commendation for Outstanding Faculty Member**.
+- **2025.11** · 🎉 Two papers on **fair graph learning** and **signed community detection** were presented at [CIKM 2025](https://cikm2025.org/).
 
 
 # 🔬 Research Interests
 
-- Graph Machine Learning
-- Trustworthy and Reliable AI
-- GraphRAG and LLM Applications
-- Recommender Systems and Information Retrieval
+- **Graph Machine Learning**
+- **Trustworthy and Reliable AI**
+- **GraphRAG and LLM Applications**
+- **Recommender Systems and Information Retrieval**
 
 
 <span class='anchor' id='publications'></span>
@@ -103,7 +146,7 @@ Seunghoon Han, Hyewon Lee, Soyoung Park, Jong-Ryul Lee\*, and **Sungsu Lim**\*
 
 # 👥 Data Intelligence Lab
 
-I have led the [Data Intelligence Lab (DILAB)](https://cnudi.github.io/) at Chungnam National University since 2018. Our group conducts research on graph machine learning, trustworthy AI, GraphRAG and LLM applications, and recommender systems and information retrieval.
+I have led the [Data Intelligence Lab (DILAB)](https://cnudi.github.io/) since 2018. Our group conducts research on graph machine learning, trustworthy AI, GraphRAG and LLM applications, and recommender systems and information retrieval.
 
 📌 [DILAB 2026 Open Lab Materials](https://drive.google.com/drive/folders/1pWMrR6roJSVIM6VxuWWHNx3PQeg9yfk0?usp=sharing)
 
@@ -152,4 +195,4 @@ Selected courses at Chungnam National University:
 - *2020*: Detecting Communities and Anomalies in Large Real-world Graphs, IEEE BigComp (Tutorial)
 - *2019*: Community Detection in Graphs, Kyung Hee University CS
 - *2019*: Learning on Graphs, Korea-Japan Database Workshop
-- *2019*: Graph Representation Learnin, KCC (Tutorial)
+- *2019*: Graph Representation Learning, KCC (Tutorial)
