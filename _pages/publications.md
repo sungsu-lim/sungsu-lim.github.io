@@ -84,7 +84,7 @@ author_profile: true
 </style>
 
 <p class="pub-note">
-I have published 50+ peer-reviewed papers in international journals and conferences,
+I have published 50+ peer-reviewed papers in leading international journals and conferences,
 with 1,000+ Google Scholar citations. For the complete and up-to-date list,
 please see my <a href="https://scholar.google.com/citations?user=cMQT0a8AAAAJ">Google Scholar</a>.
 </p>
