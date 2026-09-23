@@ -229,7 +229,7 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 <div class="feature-item">
   <div class="feature-thumb">
     <a href="https://cnudi.github.io/">
-      <img src="/images/dilab.jpg" alt="Data Intelligence Lab">
+      <img src="/images/dilab.png" alt="Data Intelligence Lab">
     </a>
   </div>
   <div class="feature-content">
