@@ -59,16 +59,18 @@ redirect_from:
 }
 
 .feature-thumb {
-  flex: 0 0 145px;
-  width: 145px;
+  flex: 0 0 180px;
+  width: 180px;
 }
 
 .feature-thumb img {
   width: 100%;
-  height: 105px;
-  object-fit: cover;
+  height: 125px;
+  object-fit: contain;
+  object-position: center;
   border-radius: 5px;
   border: 1px solid #e5e8eb;
+  background: #fff;
 }
 
 .feature-content {
@@ -142,7 +144,7 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Selected Recent Publications
+# 📝 Recent Publications
 
 <div class="feature-item">
   <div class="feature-thumb">
@@ -189,7 +191,7 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 </div>
 
 
-# 🎖 Selected Honors and Awards
+# 🎖 Honors and Awards
 
 - *2025*: CNU President's Commendation for Outstanding Faculty Member
 - *2023–2026*: Outstanding Young Researchers Grant, NRF of Korea
@@ -260,7 +262,7 @@ Selected courses at Chungnam National University:
 - Advisory Board Member: [Daejeon AI Innovation Strategy](https://n.news.naver.com/article/056/0012255252?sid=102), Ministry of Data and Statistics, KISTI DataON, etc.
 
 
-# 🎤 Selected Invited Talks
+# 🎤 Invited Talks
 
 - *2026*: Graph Learning: Representation, Recommendation, Reasoning, and Reliability, UNIST (upcoming)
 - *2026*: Generative & Trustworthy AI, Chungnam National University Hospital
