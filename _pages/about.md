@@ -60,9 +60,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Associate Professor in the School of Computing and AI at Chungnam National University (CNU), where I lead the [Data Intelligence Lab (DILAB)](https://cnudi.github.io/).
+I am an Associate Professor of [Computing and AI](https://comai.cnu.ac.kr/) at Chungnam National University (CNU), where I lead the [Data Intelligence Lab (DILAB)](https://cnudi.github.io/).
 
-I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Jae-Gil Lee](https://www.kaistdmlab.org/jaegil) and Prof. [Kyomin Jung](https://milab.snu.ac.kr/kjung/). My research interests include **graph machine learning, trustworthy AI, GraphRAG and LLM applications, and recommender systems**, with broader interests in data mining and knowledge engineering.
+I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Jae-Gil Lee](https://www.kaistdmlab.org/jaegil) and Prof. [Kyomin Jung](https://milab.snu.ac.kr/kjung/). My current research interests include graph machine learning, trustworthy AI, GraphRAG and LLM applications, and recommender systems, with broader interests in the theory and applications of data modeling, mining, and learning.
 
 
 # 🔥 News
@@ -146,15 +146,9 @@ Seunghoon Han, Hyewon Lee, Soyoung Park, Jong-Ryul Lee\*, and **Sungsu Lim**\*
 
 # 👥 Data Intelligence Lab
 
-I have led the [Data Intelligence Lab (DILAB)](https://cnudi.github.io/) since 2018. Our group conducts research on graph machine learning, trustworthy AI, GraphRAG and LLM applications, and recommender systems and information retrieval.
+I lead the [Data Intelligence Lab (DILAB)](https://cnudi.github.io/), focusing on graph machine learning, trustworthy AI, GraphRAG and LLMs, and recommender systems.
 
-📌 [DILAB 2026 Open Lab Materials](https://drive.google.com/drive/folders/1pWMrR6roJSVIM6VxuWWHNx3PQeg9yfk0?usp=sharing)
-
-📢 We are recruiting motivated graduate students and postdoctoral researchers. Please contact me via [email](mailto:sungsu@cnu.ac.kr) if you are interested.
-
-Our group currently has 2 Ph.D. and 2 M.S. full-time students ([Seunghoon Han](https://scholar.google.com/citations?user=HATQ8zsAAAAJ), Kwanhee Lee, Minkyung Song, and Junghyun Oh). Since 2018, we have graduated 5 Ph.D. and 5 M.S. full-time students. Our Ph.D. alumni are [Hwan Kim](https://scholar.google.com/citations?user=V2TxDWcAAAAJ) (M.I.Cube Solution), [Soohwan Jeong](https://scholar.google.com/citations?user=piMrsTcAAAAJ) (ADD), [Jeongseon Kim](https://ksp.etri.re.kr/ksp/user/7ce9b688-2cd9-419b-a808-58fc29a917f3) (ETRI), [Jongmin Park](https://scholar.google.com/citations?user=YvsYgPYAAAAJ) (ETRI), and Soyoung Park.
-
-Our students have received research fellowships and awards from NRF Korea, NST, KISTI, Alibaba, and others.
+📢 We are recruiting graduate students. Please contact me via [email](mailto:sungsu@cnu.ac.kr) if you are interested.
 
 
 # 🎓 Teaching
@@ -173,11 +167,11 @@ Selected courses at Chungnam National University:
 
 # 🤝 Professional Service
 
-- **Organizing Committee**: [KDD 2026](https://kdd2026.kdd.org/acm-kdd-2026-organizing-committee/) (Poster Chair), [BigComp 2027](https://bigcomp2027-website.pages.dev/organization/) (Social Media Chair), [KCC 2026](https://www.kiise.or.kr/conference/main/getContent.do?CC=kcc&CS=2026&content_no=2417&PARENT_ID=010100), [KCC 2022](https://www.kiise.or.kr/conference/main/getContent.do?CC=kcc&CS=2022&content_no=1525&PARENT_ID=010700), etc.
-- **Program Committee**: AAAI, SIGIR, CIKM, DASFAA, PAKDD, ECAI, BigData, BigComp, KSIAM Spring/Fall, etc.
-- **Editorial Board Member**: Frontiers in Big Data, Journal of KIISE, Communications of KIISE, etc.
-- **Reviewer**: Proceedings of the IEEE, IEEE TKDE, VLDB Journal, Information Sciences, ML Conferences, etc.
-- **Advisory Board Member**: [Daejeon AI Innovation Strategy](https://n.news.naver.com/article/056/0012255252?sid=102), Ministry of Data and Statistics, KISTI DataON, etc.
+- Organizing Committee: [KDD 2026](https://kdd2026.kdd.org/acm-kdd-2026-organizing-committee/) (Poster Chair), [BigComp 2027](https://bigcomp2027-website.pages.dev/organization/) (Social Media Chair), [KCC 2026](https://www.kiise.or.kr/conference/main/getContent.do?CC=kcc&CS=2026&content_no=2417&PARENT_ID=010100), [KCC 2022](https://www.kiise.or.kr/conference/main/getContent.do?CC=kcc&CS=2022&content_no=1525&PARENT_ID=010700), etc.
+- Program Committee: AAAI, SIGIR, CIKM, DASFAA, PAKDD, ECAI, BigData, BigComp, KSIAM Spring/Fall, etc.
+- Editorial Board Member: Frontiers in Big Data, Journal of KIISE, Communications of KIISE, etc.
+- Reviewer: Proceedings of the IEEE, IEEE TKDE, VLDB Journal, Information Sciences, ML Conferences, etc.
+- Advisory Board Member: [Daejeon AI Innovation Strategy](https://n.news.naver.com/article/056/0012255252?sid=102), Ministry of Data and Statistics, KISTI DataON, etc.
 
 
 # 🎤 Selected Invited Talks
