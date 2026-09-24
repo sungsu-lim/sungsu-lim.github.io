@@ -130,7 +130,7 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 - **2026.07** · Our paper on quantile-free uncertainty quantification for GNNs was presented at [ICML 2026](https://icml.cc/Conferences/2026).
 - **2026.07** · Two papers on GraphRAG and recommendation were presented at [SIGIR 2026](https://sigir2026.org/).
 - **2026.03** · Our paper on visual token pruning for multimodal LLMs was presented at [WACV 2026](https://wacv.thecvf.com/Conferences/2026).
-- **2026.02** · Our paper on LLM-enhanced network representation learning was presented at [WSDM 2026](https://wsdm-conference.org/2026/).
+- **2026.02** · Our paper on LLM-enhanced graph representation learning was presented at [WSDM 2026](https://wsdm-conference.org/2026/).
 - **2026.01** · I received the CNU President's Commendation for Outstanding Faculty Member.
 
 
