@@ -303,7 +303,7 @@ please see my <a href="https://scholar.google.com/citations?user=cMQT0a8AAAAJ">G
 
 <div class="pub-authors">Daniel Y. Lee, Seungwon Shin, <span class="advisee">Seunghoon Han</span>, <span class="me">Sungsu Lim</span>, and Susik Yoon*</div>
 
-<div class="pub-venue">NeurIPS 2026 · Regular Paper</div>
+<div class="pub-venue">NeurIPS 2026 · Regular Paper · Acceptance Rate: 25.7%</div>
 
 </div>
 
