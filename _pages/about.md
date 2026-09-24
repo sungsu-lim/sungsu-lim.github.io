@@ -125,13 +125,13 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 
 # 🔥 News
 
-- **2026.08** · Our work on few-shot node classification on text-attributed graphs was accepted to [CIKM 2026](https://cikm2026.diag.uniroma1.it/).
-- **2026.07** · Our work on quantile-free uncertainty quantification for GNNs was presented at [ICML 2026](https://icml.cc/Conferences/2026).
+- **2026.09** · Our paper on traffic forecasting robust to aperiodicity was accepted to [NeurIPS 2026](https://neurips.cc/Conferences/2026).
+- **2026.08** · Our paper on few-shot node classification on text-attributed graphs was accepted to [CIKM 2026](https://cikm2026.diag.uniroma1.it/).
+- **2026.07** · Our paper on quantile-free uncertainty quantification for GNNs was presented at [ICML 2026](https://icml.cc/Conferences/2026).
 - **2026.07** · Two papers on GraphRAG and recommendation were presented at [SIGIR 2026](https://sigir2026.org/).
-- **2026.03** · Our work on visual token pruning for multimodal LLMs was presented at [WACV 2026](https://wacv.thecvf.com/Conferences/2026).
-- **2026.02** · Our work on LLM-enhanced citation network representation learning was presented at [WSDM 2026](https://wsdm-conference.org/2026/).
-- **2026.01** · Received the CNU President's Commendation for Outstanding Faculty Member.
-- **2025.11** · Two papers on fair graph learning and signed community detection were presented at [CIKM 2025](https://cikm2025.org/).
+- **2026.03** · Our paper on visual token pruning for multimodal LLMs was presented at [WACV 2026](https://wacv.thecvf.com/Conferences/2026).
+- **2026.02** · Our paper on LLM-enhanced citation network representation learning was presented at [WSDM 2026](https://wsdm-conference.org/2026/).
+- **2026.01** · I received the CNU President's Commendation for Outstanding Faculty Member.
 
 
 # 🔬 Research Interests
