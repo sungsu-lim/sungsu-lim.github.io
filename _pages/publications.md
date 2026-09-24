@@ -189,16 +189,6 @@ please see my <a href="https://scholar.google.com/citations?user=cMQT0a8AAAAJ">G
 
 <div class="pub-title">[C] (Work on traffic forecasting)</div>
 
-<div class="pub-authors">Daniel Y. Lee, Seungwon Shin, <span class="advisee">Seunghoon Han</span>, <span class="me">Sungsu Lim</span>, and Susik Yoon*</div>
-
-<div class="pub-venue">Top-tier Conference · Regular Paper · Submitted</div>
-
-</div>
-
-<div class="pub-item">
-
-<div class="pub-title">[C] (Work on traffic forecasting)</div>
-
 <div class="pub-authors"><span class="advisee">Seunghoon Han</span>, <span class="advisee">Junghyun Oh</span>, <span class="advisee">Jongmin Park</span>, and <span class="me">Sungsu Lim</span>*</div>
 
 <div class="pub-venue">Top-tier Conference · Regular Paper · Submitted</div>
@@ -306,6 +296,16 @@ please see my <a href="https://scholar.google.com/citations?user=cMQT0a8AAAAJ">G
 </div>
 
 <div class="pub-section">2026</div>
+
+<div class="pub-item">
+
+<div class="pub-title">[C25] SIMBAD: Spatio-Temporal Traffic Forecasting Robust to Aperiodicity</div>
+
+<div class="pub-authors">Daniel Y. Lee, Seungwon Shin, <span class="advisee">Seunghoon Han</span>, <span class="me">Sungsu Lim</span>, and Susik Yoon*</div>
+
+<div class="pub-venue">NeurIPS 2026 · Regular Paper</div>
+
+</div>
 
 <div class="pub-item">
 
