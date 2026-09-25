@@ -81,6 +81,35 @@ author_profile: true
 .pub-note a:hover {
   text-decoration: underline;
 }
+
+.pub-more {
+  margin: -0.3em 0 2em;
+}
+
+.pub-more summary {
+  display: inline-block;
+  cursor: pointer;
+  color: #3976a8;
+  font-size: 0.9em;
+  font-weight: 600;
+  list-style: none;
+}
+
+.pub-more summary::-webkit-details-marker {
+  display: none;
+}
+
+.pub-more summary::after {
+  content: " ↓";
+}
+
+.pub-more[open] summary::after {
+  content: " ↑";
+}
+
+.pub-more-content {
+  margin-top: 1.4em;
+}
 </style>
 
 <p class="pub-note">
@@ -134,6 +163,11 @@ please see my <a href="https://scholar.google.com/citations?user=cMQT0a8AAAAJ">G
 <div class="pub-venue">Knowledge-Based Systems, Under Review</div>
 
 </div>
+
+<details class="pub-more">
+<summary>Show more preprints</summary>
+
+<div class="pub-more-content">
 
 <div class="pub-item">
 
