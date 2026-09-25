@@ -59,8 +59,27 @@ redirect_from:
 }
 
 .feature-thumb {
+  position: relative;
   flex: 0 0 180px;
   width: 180px;
+}
+
+.venue-badge {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  z-index: 2;
+
+  padding: 3px 7px;
+  background: rgba(255, 255, 255, 0.94);
+  border: 1px solid #d9e0e5;
+  border-radius: 4px;
+
+  color: #234f73;
+  font-size: 0.68em;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .feature-thumb img {
@@ -148,6 +167,7 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 
 <div class="feature-item">
   <div class="feature-thumb">
+    <span class="venue-badge">ICML</span>
     <img src="/images/publications/qpignn.png" alt="QpiGNN">
   </div>
   <div class="feature-content">
@@ -159,6 +179,7 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 
 <div class="feature-item">
   <div class="feature-thumb">
+    <span class="venue-badge">SIGIR</span>
     <img src="/images/publications/star.png" alt="StAR">
   </div>
   <div class="feature-content">
@@ -170,6 +191,7 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 
 <div class="feature-item">
   <div class="feature-thumb">
+    <span class="venue-badge">SIGIR</span>
     <img src="/images/publications/discorec.png" alt="DisCoRec">
   </div>
   <div class="feature-content">
@@ -181,6 +203,7 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 
 <div class="feature-item">
   <div class="feature-thumb">
+    <span class="venue-badge">WACV</span>
     <img src="/images/publications/mr-pruner.png" alt="MR-Pruner">
   </div>
   <div class="feature-content">
