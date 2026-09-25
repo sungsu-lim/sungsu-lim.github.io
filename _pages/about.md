@@ -202,7 +202,8 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 - *2021*: Commissioner's Citation, Korea Customs Service
 - *2021*: Best Paper Award (3rd Place), IEEE BigComp
 - *2016*: Qualcomm Innovation Award
-- *2014*: Nomination Award, Microsoft Research Asia Fellowship
+- *2014*: KT ICT Award, Big Data Analysis Contest (Big Contest)
+- *2012*: Nomination Award, Microsoft Research Asia Fellowship
 - *2012*: Honorable Mention, Samsung Humantech Paper Award
 
 
