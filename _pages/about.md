@@ -70,16 +70,15 @@ redirect_from:
   left: 7px;
   z-index: 2;
 
-  padding: 3px 7px;
-  background: rgba(255, 255, 255, 0.94);
-  border: 1px solid #d9e0e5;
+  padding: 2px 7px;
+  background: #eaf2f8;
+  border: 1px solid #c9dbe8;
   border-radius: 4px;
 
   color: #234f73;
-  font-size: 0.68em;
+  font-size: 0.64em;
   font-weight: 700;
   line-height: 1.2;
-  letter-spacing: 0.02em;
 }
 
 .feature-thumb img {
