@@ -70,14 +70,14 @@ redirect_from:
   left: 7px;
   z-index: 2;
 
-  padding: 2px 7px;
-  background: #eaf2f8;
-  border: 1px solid #c9dbe8;
+  padding: 3px 8px;
+  background: #d3e4f1;
+  border: 1px solid #9fbed5;
   border-radius: 4px;
 
-  color: #234f73;
+  color: #1f4f73;
   font-size: 0.64em;
-  font-weight: 700;
+  font-weight: 750;
   line-height: 1.2;
 }
 
