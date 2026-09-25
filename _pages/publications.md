@@ -82,21 +82,16 @@ author_profile: true
   text-decoration: underline;
 }
 
-.pub-more {
-  margin: -0.3em 0 2em;
-}
-
-.pub-more summary {
-  display: inline-block;
-  cursor: pointer;
-  color: #3976a8;
-  font-size: 0.9em;
-  font-weight: 600;
-  list-style: none;
-}
-
-.pub-more summary::-webkit-details-marker {
+.pub-more .hide-label {
   display: none;
+}
+
+.pub-more[open] .show-label {
+  display: none;
+}
+
+.pub-more[open] .hide-label {
+  display: inline;
 }
 
 .pub-more summary::after {
@@ -105,10 +100,6 @@ author_profile: true
 
 .pub-more[open] summary::after {
   content: " ↑";
-}
-
-.pub-more-content {
-  margin-top: 1.4em;
 }
 </style>
 
@@ -165,7 +156,10 @@ please see my <a href="https://scholar.google.com/citations?user=cMQT0a8AAAAJ">G
 </div>
 
 <details class="pub-more">
-<summary>Show more preprints</summary>
+<summary>
+  <span class="show-label">Show more preprints</span>
+  <span class="hide-label">Show less</span>
+</summary>
 
 <div class="pub-more-content">
 
@@ -328,6 +322,8 @@ please see my <a href="https://scholar.google.com/citations?user=cMQT0a8AAAAJ">G
 <div class="pub-venue">Preprint</div>
 
 </div>
+
+</details>
 
 <div class="pub-section">2026</div>
 
