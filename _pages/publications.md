@@ -104,9 +104,8 @@ author_profile: true
 </style>
 
 <p class="pub-note">
-I have published 50+ peer-reviewed papers in leading international journals and conferences,
-with 1,000+ Google Scholar citations. For the complete and up-to-date list,
-please see my <a href="https://scholar.google.com/citations?user=cMQT0a8AAAAJ">Google Scholar</a>.
+50+ peer-reviewed papers in leading international journals and conferences ·
+1,000+ <a href="https://scholar.google.com/citations?user=cMQT0a8AAAAJ">Google Scholar</a> citations
 </p>
 
 <p class="pub-note">
@@ -160,8 +159,6 @@ please see my <a href="https://scholar.google.com/citations?user=cMQT0a8AAAAJ">G
   <span class="show-label">Show more preprints</span>
   <span class="hide-label">Show less</span>
 </summary>
-
-<div class="pub-more-content">
 
 <div class="pub-item">
 
@@ -322,6 +319,8 @@ please see my <a href="https://scholar.google.com/citations?user=cMQT0a8AAAAJ">G
 <div class="pub-venue">Preprint</div>
 
 </div>
+
+<!-- 나머지 preprints -->
 
 </details>
 
