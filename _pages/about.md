@@ -193,11 +193,12 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 
 # 🎖 Honors and Awards
 
+- *2026*: CNU Teaching Award Candidate (Top 7% among faculty; selection in progress)
 - *2025*: CNU President's Commendation for Outstanding Faculty Member
 - *2023–2026*: Outstanding Young Researchers Grant, NRF of Korea
 - *2023*: [KSEE Young Engineering Educator Award](https://www.ksee.org/html/?pmode=prize)
 - *2022*: [NVIDIA Applied Research Accelerator Award](https://www.nvidia.com/en-us/industries/higher-education-research/applied-research-program/)
-- *2022*: [CNU Teaching Award](https://plus.cnu.ac.kr/html/kr/sub01/sub01_01071504.html)
+- *2022*: [CNU Teaching Award](https://plus.cnu.ac.kr/html/kr/sub01/sub01_01071504.html) (Top 1% among faculty)
 - *2021*: Commissioner's Citation, Korea Customs Service
 - *2021*: Best Paper Award (3rd Place), IEEE BigComp
 - *2016*: Qualcomm Innovation Award
