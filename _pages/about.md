@@ -66,19 +66,19 @@ redirect_from:
 
 .venue-badge {
   position: absolute;
-  top: 7px;
-  left: 7px;
+  top: 8px;
+  left: 8px;
   z-index: 2;
 
-  padding: 3px 8px;
-  background: #d3e4f1;
-  border: 1px solid #9fbed5;
+  padding: 4px 9px;
+  background: #234f73;
   border-radius: 4px;
 
-  color: #1f4f73;
+  color: #fff;
   font-size: 0.64em;
-  font-weight: 750;
+  font-weight: 700;
   line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .feature-thumb img {
