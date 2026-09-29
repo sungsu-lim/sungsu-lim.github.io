@@ -81,6 +81,42 @@ redirect_from:
   letter-spacing: 0.02em;
 }
 
+.news-more {
+  margin-top: 0.3em;
+}
+
+.news-more summary {
+  cursor: pointer;
+  color: #2563a6;
+  font-size: 0.92em;
+  font-weight: 500;
+  list-style: none;
+}
+
+.news-more summary::-webkit-details-marker {
+  display: none;
+}
+
+.news-more .hide-label {
+  display: none;
+}
+
+.news-more[open] .show-label {
+  display: none;
+}
+
+.news-more[open] .hide-label {
+  display: inline;
+}
+
+.news-more summary::after {
+  content: " ↓";
+}
+
+.news-more[open] summary::after {
+  content: " ↑";
+}
+
 .feature-thumb img {
   width: 100%;
   height: 125px;
@@ -147,9 +183,21 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 - **2026.08** · Our paper on few-shot node classification on text-attributed graphs was accepted to [CIKM 2026](https://cikm2026.diag.uniroma1.it/).
 - **2026.07** · Our paper on quantile-free uncertainty quantification for GNNs was presented at [ICML 2026](https://icml.cc/Conferences/2026).
 - **2026.07** · Two papers on GraphRAG and recommendation were presented at [SIGIR 2026](https://sigir2026.org/).
+
+<details class="news-more">
+<summary>
+  <span class="show-label">Show more</span>
+  <span class="hide-label">Show less</span>
+</summary>
+
 - **2026.03** · Our paper on visual token pruning for multimodal LLMs was presented at [WACV 2026](https://wacv.thecvf.com/Conferences/2026).
 - **2026.02** · Our paper on LLM-enhanced graph representation learning was presented at [WSDM 2026](https://wsdm-conference.org/2026/).
 - **2026.01** · I received the CNU President's Commendation for Outstanding Faculty Member.
+- **2025.11** · DILAB placed 4th and received a Special Award in the [CIKM 2025 AnalytiCup Alibaba Challenge](https://alibaba-international-cikm2025.github.io/).
+- **2025.11** · DILAB won 2nd Place in the ScienceON AI Challenge 2025.
+- **2025.11** · Two papers on fair graph learning and signed community detection were presented at [CIKM 2025](https://cikm2025.org/).
+
+</details>
 
 
 # 🔬 Research Interests
