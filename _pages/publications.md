@@ -274,7 +274,7 @@ author_profile: true
 
 <div class="pub-title">[C] (Work on KV cache translation)</div>
 
-<div class="pub-authors"><span class="advisee">Jin-woo Lee</span>, <span class="advisee">Minkyung Song</span>, <span class="advisee">Junghyun Oh</span>, <span class="advisee">Seunghoon Han</span>, Gwangseon Jang, <span class="advisee">Soyoung Park</span>, and <span class="me">Sungsu Lim</span></div>
+<div class="pub-authors"><span class="advisee">Jin-woo Lee</span>, <span class="advisee">Minkyung Song</span>†, <span class="advisee">Junghyun Oh</span>†, <span class="advisee">Seunghoon Han</span>, Gwangseon Jang, <span class="advisee">Soyoung Park</span>, and <span class="me">Sungsu Lim</span></div>
 
 <div class="pub-venue">Top-tier Conference · Regular Paper · Submitted</div>
 
@@ -955,6 +955,16 @@ author_profile: true
 </div>
 
 <div class="pub-section">Selected Workshops & Demos</div>
+
+<div class="pub-item">
+
+<div class="pub-title">[W10] Mixture-of-Translators: Scalable Memory Reuse across Heterogeneous LLM Agents</div>
+
+<div class="pub-authors"><span class="advisee">Jin-woo Lee</span>†, <span class="advisee">Junghyun Oh</span>†, <span class="advisee">Minkyung Song</span>†, <span class="advisee">Seunghoon Han</span>, Gwangseon Jang, <span class="advisee">Soyoung Park</span>, and <span class="me">Sungsu Lim</span></div>
+
+<div class="pub-venue">NeurIPS 2026 AgenticOS Workshop</div>
+
+</div>
 
 <div class="pub-item">
 
