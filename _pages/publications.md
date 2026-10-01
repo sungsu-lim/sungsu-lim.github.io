@@ -330,7 +330,7 @@ author_profile: true
 
 <div class="pub-title">[C25] SIMBAD: Spatio-Temporal Traffic Forecasting Robust to Aperiodicity</div>
 
-<div class="pub-authors">Daniel Y. Lee, Seungwon Shin, <span class="advisee">Seunghoon Han</span>, <span class="me">Sungsu Lim</span>, and Susik Yoon*</div>
+<div class="pub-authors">Daniel Y. Lee, Seungwon Shin, <span class="advisee">Seunghoon Han</span>, <span class="me">Sungsu Lim</span>*, and Susik Yoon*</div>
 
 <div class="pub-venue">NeurIPS 2026 · Regular Paper · Acceptance Rate: 25.7%</div>
 
