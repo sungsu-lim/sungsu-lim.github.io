@@ -333,7 +333,8 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 
 # 🎤 Invited Talks
 
-- *2026*: Graph Learning: Representation, Recommendation, Reasoning, and Reliability, UNIST (upcoming)
+- *2026*: Graph Learning: Representation, Recommendation, Reasoning, and Reliability, UNIST CSE
+- *2026*: The Current State of AI, Daejeon City Council
 - *2026*: Generative & Trustworthy AI, Chungnam National University Hospital
 - *2026*: Trustworthy AI, Korea Astronomy and Space Science Institute
 - *2025*: Uncertainty Quantification in GNNs, Winter Conference of Korean Statistical Society
