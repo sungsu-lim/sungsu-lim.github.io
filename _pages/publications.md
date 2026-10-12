@@ -186,7 +186,17 @@ author_profile: true
 
 <div class="pub-authors"><span class="advisee">Jaewook Seol</span>, Hyejin Lee, and <span class="me">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">In Preparation</div>
+<div class="pub-venue">International Journal on Document Analysis and Recognition, Under Review</div>
+
+</div>
+
+<div class="pub-item">
+
+<div class="pub-title">[J] Decision Regret in Renewable Energy Bidding Evaluated Using a Settlement Digital Twin</div>
+
+<div class="pub-authors"><span class="advisee">Jun-Sung Kim</span>, Siyeon Kim, <span class="me">Sungsu Lim</span>*, and Junhyuk Kong*</div>
+
+<div class="pub-venue">Journal, Submitted</div>
 
 </div>
 
@@ -215,16 +225,6 @@ author_profile: true
 <div class="pub-title">[C] (Work on traffic forecasting)</div>
 
 <div class="pub-authors"><span class="advisee">Seunghoon Han</span>, <span class="advisee">Junghyun Oh</span>, <span class="advisee">Jongmin Park</span>, and <span class="me">Sungsu Lim</span>*</div>
-
-<div class="pub-venue">Top-tier Conference · Regular Paper · Submitted</div>
-
-</div>
-
-<div class="pub-item">
-
-<div class="pub-title">[C] (Work on effective VLLMs)</div>
-
-<div class="pub-authors"><span class="advisee">Seunghoon Han</span>, <span class="advisee">Junghyun Oh</span>, <span class="advisee">Jin-woo Lee</span>, and <span class="me">Sungsu Lim</span>*</div>
 
 <div class="pub-venue">Top-tier Conference · Regular Paper · Submitted</div>
 
@@ -277,6 +277,16 @@ author_profile: true
 <div class="pub-authors"><span class="advisee">Jin-woo Lee</span>, <span class="advisee">Minkyung Song</span>†, <span class="advisee">Junghyun Oh</span>†, <span class="advisee">Seunghoon Han</span>, Gwangseon Jang, <span class="advisee">Soyoung Park</span>, and <span class="me">Sungsu Lim</span></div>
 
 <div class="pub-venue">Top-tier Conference · Regular Paper · Submitted</div>
+
+</div>
+
+<div class="pub-item">
+
+<div class="pub-title">[C] (Work on effective VLLMs)</div>
+
+<div class="pub-authors"><span class="advisee">Seunghoon Han</span>, <span class="advisee">Junghyun Oh</span>, <span class="advisee">Jin-woo Lee</span>, and <span class="me">Sungsu Lim</span>*</div>
+
+<div class="pub-venue">Top-tier Conference · Regular Paper · In Preparation</div>
 
 </div>
 
