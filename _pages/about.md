@@ -223,7 +223,7 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
   </div>
   <div class="feature-content">
     <h3>SIMBAD: Spatio-Temporal Traffic Forecasting Robust to Aperiodicity</h3>
-    <p>Daniel Y. Lee, Seungwon Shin, Seunghoon Han, <strong>Sungsu Lim</strong>, and Susik Yoon*</p>
+    <p>Daniel Y. Lee, Seungwon Shin, Seunghoon Han, <strong>Sungsu Lim</strong>*, and Susik Yoon*</p>
     <p><em>NeurIPS 2026</em> · Regular Paper · Acceptance Rate: 25.7%</p>
   </div>
 </div>
