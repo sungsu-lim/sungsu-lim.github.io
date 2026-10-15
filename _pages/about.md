@@ -218,6 +218,18 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 
 <div class="feature-item">
   <div class="feature-thumb">
+    <span class="venue-badge">NeurIPS</span>
+    <img src="/images/publications/simbad.png" alt="SIMBAD">
+  </div>
+  <div class="feature-content">
+    <h3>SIMBAD: Spatio-Temporal Traffic Forecasting Robust to Aperiodicity</h3>
+    <p>Daniel Y. Lee, Seungwon Shin, Seunghoon Han, <strong>Sungsu Lim</strong>, and Susik Yoon*</p>
+    <p><em>NeurIPS 2026</em> · Regular Paper · Acceptance Rate: 25.7%</p>
+  </div>
+</div>
+
+<div class="feature-item">
+  <div class="feature-thumb">
     <span class="venue-badge">ICML</span>
     <img src="/images/publications/qpignn.png" alt="QpiGNN">
   </div>
@@ -331,20 +343,31 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 - Advisory Board Member: [Daejeon AI Innovation Strategy](https://n.news.naver.com/article/056/0012255252?sid=102), Ministry of Data and Statistics, KISTI DataON, etc.
 
 
+
 # 🎤 Invited Talks
 
 - *2026*: Graph Learning: Representation, Recommendation, Reasoning, and Reliability, UNIST CSE
-- *2026*: The Current State of AI, Daejeon City Council
+- *2026*: The Current State of AI, Daejeon Metropolitan Council
 - *2026*: Generative & Trustworthy AI, Chungnam National University Hospital
 - *2026*: Trustworthy AI, Korea Astronomy and Space Science Institute
-- *2025*: Uncertainty Quantification in GNNs, Winter Conference of Korean Statistical Society
-- *2025*: Generative AI - LLM & RAG, Public Procurement Service
-- *2024*: Heterogeneous Graph Embedding, Kangwon National University
-- *2022*: Heterogeneous Graph Embedding, UNIST EE
-- *2021*: Multi-aspect Graph Embedding, KSIAM Annual Meeting
-- *2021*: Learning on Graphs, Univ. of Seoul AI
-- *2020*: Learning on Graphs, IBS Data Science Group
-- *2020*: Detecting Communities and Anomalies in Large Real-world Graphs, IEEE BigComp (Tutorial)
-- *2019*: Community Detection in Graphs, Kyung Hee University CS
-- *2019*: Learning on Graphs, Korea-Japan Database Workshop
-- *2019*: Graph Representation Learning, KCC (Tutorial)
+
+<details class="news-more">
+<summary>
+  <span class="show-label">Show more</span>
+  <span class="hide-label">Show less</span>
+</summary>
+
+<ul>
+  <li><em>2025</em>: Uncertainty Quantification in GNNs, Winter Conference of Korean Statistical Society</li>
+  <li><em>2025</em>: Generative AI - LLM & RAG, Public Procurement Service</li>
+  <li><em>2024</em>: Heterogeneous Graph Embedding, Kangwon National University</li>
+  <li><em>2022</em>: Heterogeneous Graph Embedding, UNIST EE</li>
+  <li><em>2021</em>: Multi-aspect Graph Embedding, KSIAM Annual Meeting</li>
+  <li><em>2021</em>: Learning on Graphs, Univ. of Seoul AI</li>
+  <li><em>2020</em>: Learning on Graphs, IBS Data Science Group</li>
+  <li><em>2020</em>: Detecting Communities and Anomalies in Large Real-world Graphs, IEEE BigComp (Tutorial)</li>
+  <li><em>2019</em>: Community Detection in Graphs, Kyung Hee University CS</li>
+  <li><em>2019</em>: Learning on Graphs, Korea-Japan Database Workshop</li>
+  <li><em>2019</em>: Graph Representation Learning, KCC (Tutorial)</li>
+</ul>
+</details>
