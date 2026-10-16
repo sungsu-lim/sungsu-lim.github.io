@@ -970,7 +970,7 @@ author_profile: true
 
 <div class="pub-title">[W10] Mixture-of-Translators: Scalable Memory Reuse across Heterogeneous LLM Agents</div>
 
-<div class="pub-authors"><span class="advisee">Jin-woo Lee</span>†, <span class="advisee">Junghyun Oh</span>†, <span class="advisee">Minkyung Song</span>†, <span class="advisee">Seunghoon Han</span>, Gwangseon Jang, <span class="advisee">Soyoung Park</span>, and <span class="me">Sungsu Lim</span></div>
+<div class="pub-authors"><span class="advisee">Jin-woo Lee</span>†, <span class="advisee">Junghyun Oh</span>†, <span class="advisee">Minkyung Song</span>†, <span class="advisee">Seunghoon Han</span>, Gwangseon Jang, <span class="advisee">Soyoung Park</span>, and <span class="me">Sungsu Lim</span>*</div>
 
 <div class="pub-venue">NeurIPS 2026 AgenticOS Workshop</div>
 
@@ -1081,15 +1081,21 @@ author_profile: true
 <div class="pub-section">Domestic Publications</div>
 
 <div class="pub-item">
-  <div class="pub-title">[K34] 구조 기하 정보를 활용한 바이러스의 면역 회피 변이 예측</div>
+  <div class="pub-title">[K35] 구조 기하 정보를 활용한 바이러스의 면역 회피 변이 예측</div>
   <div class="pub-authors"><span class="advisee">송민경</span>†, <span class="advisee">이관희</span>†, 손동현, <span class="me">임성수</span>*, 강남숙*</div>
   <div class="pub-venue">KDBC 2026 · Work-in-Progress · November 2026</div>
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">[K33] 이종 그래프 기반 과학기술인 교육 플랫폼의 롱테일 과정 추천</div>
+  <div class="pub-title">[K34] 이종 그래프 기반 과학기술인 교육 플랫폼의 롱테일 과정 추천</div>
   <div class="pub-authors"><span class="advisee">민세미</span>, <span class="me">임성수</span>*</div>
   <div class="pub-venue">KDBC 2026 · Work-in-Progress · November 2026</div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-title">[K33] A Deep Learning Framework for Predicting Influenza A Virus Viral Fitness from Sequence and 3D Structural Features</div>
+  <div class="pub-authors">손동현, <span class="advisee">이관희</span>, <span class="advisee">송민경</span>, <span class="me">임성수</span>*, 강남숙*</div>
+  <div class="pub-venue">대한화학회 제138회 학술발표회 · Poster · October 2026</div>
 </div>
 
 <div class="pub-item"> <div class="pub-title">[K32] ACE-RAG: Is Broader Retrieval Always Better for GraphRAG? <a class="pub-link" href="https://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20260501&CpPage=350#CONF">[link]</a></div> <div class="pub-authors"><span class="advisee">오정현</span>, <span class="advisee">이진우</span>, <span class="me">임성수</span>*</div> <div class="pub-venue">2026 한국인공지능학회 하계학술대회 · 포스터세션 · August 2026</div> </div>
