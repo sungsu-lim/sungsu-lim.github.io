@@ -332,7 +332,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="advisee">Jongmin Park</span>, <span class="advisee">Seunghoon Han</span>, Won-Yong Shin, and <span class="me">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">IEEE Transactions on Network Science and Engineering (TNSE), Accepted</div>
+<div class="pub-venue">IEEE Transactions on Network Science and Engineering (TNSE), Accepted <span class="journal-metric">IF 7.3 · Q1</span></div>
 
 </div>
 
