@@ -116,16 +116,6 @@ author_profile: true
 
 <div class="pub-item">
 
-<div class="pub-title">[J] Metapath-based Hyperbolic Contrastive Learning for Heterogeneous Graph Embedding</div>
-
-<div class="pub-authors"><span class="advisee">Jongmin Park</span>, <span class="advisee">Seunghoon Han</span>, Won-Yong Shin, and <span class="me">Sungsu Lim</span>*</div>
-
-<div class="pub-venue">IEEE Transactions on Network Science and Engineering (TNSE), In Revision</div>
-
-</div>
-
-<div class="pub-item">
-
 <div class="pub-title">[J] Structure-Aware Conformal Calibration for Uncertainty Quantification in Recommender Systems</div>
 
 <div class="pub-authors"><span class="advisee">Soyoung Park</span>, <span class="advisee">Minkyung Song</span>, and <span class="me">Sungsu Lim</span>*</div>
@@ -206,7 +196,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="advisee">Seunghoon Han</span>, <span class="advisee">Junghyun Oh</span>, <span class="advisee">Beomjin Kim</span>, <span class="advisee">Jongmin Park</span>, David Yoon Suk Kang, Dongwon Lee, and <span class="me">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">In Preparation</div>
+<div class="pub-venue">Artificial Intelligence Review, Submitted</div>
 
 </div>
 
@@ -334,7 +324,17 @@ author_profile: true
 
 </details>
 
-<div class="pub-section">2026</div>
+<div class="pub-section">2026+</div>
+
+<div class="pub-item">
+
+<div class="pub-title">[J37] Metapath-based Hyperbolic Contrastive Learning for Heterogeneous Graph Embedding</div>
+
+<div class="pub-authors"><span class="advisee">Jongmin Park</span>, <span class="advisee">Seunghoon Han</span>, Won-Yong Shin, and <span class="me">Sungsu Lim</span>*</div>
+
+<div class="pub-venue">IEEE Transactions on Network Science and Engineering (TNSE), Accepted</div>
+
+</div>
 
 <div class="pub-item">
 
