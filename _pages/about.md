@@ -180,10 +180,10 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 
 # 🔥 News
 
+- **2026.11** · Our paper on structural clustering for weighted networks was accepted to [WSDM 2027](https://www.wsdm-conference.org/2027/).
 - **2026.09** · Our paper on traffic forecasting robust to aperiodicity was accepted to [NeurIPS 2026](https://neurips.cc/Conferences/2026).
 - **2026.08** · Our paper on few-shot node classification on text-attributed graphs was accepted to [CIKM 2026](https://cikm2026.diag.uniroma1.it/).
 - **2026.07** · Our paper on quantile-free uncertainty quantification for GNNs was presented at [ICML 2026](https://icml.cc/Conferences/2026).
-- **2026.07** · Two papers on GraphRAG and recommendation were presented at [SIGIR 2026](https://sigir2026.org/).
 
 <details class="news-more">
 <summary>
@@ -192,6 +192,7 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 </summary>
 
 <ul>
+  <li><strong>2026.07</strong> · Two papers on GraphRAG and recommendation were presented at <a href="https://sigir2026.org/">SIGIR 2026</a>.</li>
   <li><strong>2026.03</strong> · Our paper on visual token pruning for multimodal LLMs was presented at <a href="https://wacv.thecvf.com/Conferences/2026">WACV 2026</a>.</li>
   <li><strong>2026.02</strong> · Our paper on LLM-enhanced graph representation learning was presented at <a href="https://wsdm-conference.org/2026/">WSDM 2026</a>.</li>
   <li><strong>2026.01</strong> · I received the CNU President's Commendation for Outstanding Faculty Member.</li>
