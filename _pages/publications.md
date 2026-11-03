@@ -242,16 +242,6 @@ author_profile: true
 
 <div class="pub-item">
 
-<div class="pub-title">[C] (work on graph clustering)</div>
-
-<div class="pub-authors">Taejoon Han, Seungchan Choi, Hyewon Kim, Minseok Kim, Dahee Kim, Junghoon Kim*, <span class="me">Sungsu Lim</span>, and Seongil Wi</div>
-
-<div class="pub-venue">Top-tier Conference · Regular Paper · Submitted</div>
-
-</div>
-
-<div class="pub-item">
-
 <div class="pub-title">[C] (Work on fairness in GNNs)</div>
 
 <div class="pub-authors"><span class="advisee">Soyoung Park</span>, Yeon-Chang Lee, and <span class="me">Sungsu Lim</span>*</div>
@@ -324,7 +314,7 @@ author_profile: true
 
 </details>
 
-<div class="pub-section">2026+</div>
+<div class="pub-section">2027+</div>
 
 <div class="pub-item">
 
@@ -335,6 +325,19 @@ author_profile: true
 <div class="pub-venue">IEEE Transactions on Network Science and Engineering (TNSE), Accepted <span class="journal-metric">IF 7.3 · Q1</span></div>
 
 </div>
+
+<div class="pub-item">
+
+<div class="pub-title">[C26] WSCAN++: Mutual-Support Structural Clustering for Weighted Networks
+</div>
+
+<div class="pub-authors">Taejoon Han, Seungchan Choi, Hyewon Kim, Minseok Kim, Dahee Kim, Junghoon Kim*, <span class="me">Sungsu Lim</span>, and Seongil Wi</div>
+
+<div class="pub-venue">WSDM 2027 · Regular Paper · Acceptance Rate: 15.8%</div>
+
+</div>
+
+<div class="pub-section">2026</div>
 
 <div class="pub-item">
 
