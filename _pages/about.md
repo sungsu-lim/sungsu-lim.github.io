@@ -180,7 +180,8 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 
 # 🔥 News
 
-- **2026.11** · Our paper on structural clustering for weighted networks was accepted to [WSDM 2027](https://www.wsdm-conference.org/2027/).
+-  **2026.11** · Our paper on retrieval strategies for GraphRAG was accepted to [EACL 2027 Findings](https://2027.eacl.org/).
+-  **2026.11** · Our paper on structural clustering for weighted networks was accepted to [WSDM 2027](https://www.wsdm-conference.org/2027/).
 - **2026.09** · Our paper on traffic forecasting robust to aperiodicity was accepted to [NeurIPS 2026](https://neurips.cc/Conferences/2026).
 - **2026.08** · Our paper on few-shot node classification on text-attributed graphs was accepted to [CIKM 2026](https://cikm2026.diag.uniroma1.it/).
 - **2026.07** · Our paper on quantile-free uncertainty quantification for GNNs was presented at [ICML 2026](https://icml.cc/Conferences/2026).
