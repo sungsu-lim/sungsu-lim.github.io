@@ -322,7 +322,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="advisee">Junghyun Oh</span>, <span class="advisee">Jin-woo Lee</span>*, and <span class="me">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">EACL 2027 Findings · Short Paper · Accepted</div>
+<div class="pub-venue">EACL 2027 Findings · Short Paper · Acceptance Rate: 38.1%</div>
 
 </div>
 
