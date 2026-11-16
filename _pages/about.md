@@ -179,7 +179,7 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 
 
 # 🔥 News
-- **2026.11** · Our paper on learning for heterogeneous graphs was accepted to [IEEE TNSE](https://www.comsoc.org/publications/journals/ieee-tnse) (SCIE, JCR Top 3%).
+- **2026.11** · Our paper on learning for heterogeneous graphs was accepted to [TNSE](https://www.comsoc.org/publications/journals/ieee-tnse) (SCIE, JCR Top 3%).
 - **2026.11** · Our paper on retrieval strategies for GraphRAG was accepted to [EACL 2027 Findings](https://2027.eacl.org/).
 - **2026.11** · Our paper on structural clustering for weighted networks was accepted to [WSDM 2027](https://www.wsdm-conference.org/2027/).
 - **2026.09** · Our paper on traffic forecasting robust to aperiodicity was accepted to [NeurIPS 2026](https://neurips.cc/Conferences/2026).
@@ -222,13 +222,13 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 
 <div class="feature-item">
   <div class="feature-thumb">
+    <span class="venue-badge">TNSE</span>
     <img src="/images/publications/mhcl.png" alt="MHCL">
-    <strong>MHCL</strong>
   </div>
   <div class="feature-content">
     <h3>Metapath-based Hyperbolic Contrastive Learning for Heterogeneous Graph Embedding</h3>
     <p>Jongmin Park, Seunghoon Han, Won-Yong Shin, and <strong>Sungsu Lim</strong>*</p>
-    <p><em>IEEE TNSE</em> · <a href="https://ieeexplore.ieee.org/abstract/document/11783151">Accepted</a> · SCIE, JCR Top 3%</p>
+    <p><em>TNSE</em> · <a href="https://ieeexplore.ieee.org/abstract/document/11783151">Accepted</a> · SCIE, JCR Top 3%</p>
   </div>
 </div>
 
