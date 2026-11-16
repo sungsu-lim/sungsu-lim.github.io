@@ -222,20 +222,20 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 
 <div class="feature-item">
   <div class="feature-thumb">
-    <span class="venue-badge">TNSE</span>
+    <img src="/images/publications/mhcl.png" alt="MHCL">
     <strong>MHCL</strong>
   </div>
   <div class="feature-content">
     <h3>Metapath-based Hyperbolic Contrastive Learning for Heterogeneous Graph Embedding</h3>
     <p>Jongmin Park, Seunghoon Han, Won-Yong Shin, and <strong>Sungsu Lim</strong>*</p>
-    <p><em>IEEE Transactions on Network Science and Engineering</em> · SCIE, JCR Top 3%</p>
+    <p><em>IEEE TNSE</em> · <a href="https://ieeexplore.ieee.org/abstract/document/11783151">Accepted</a> · SCIE, JCR Top 3%</p>
   </div>
 </div>
 
 <div class="feature-item">
   <div class="feature-thumb">
     <span class="venue-badge">EACL</span>
-    <strong>GRef-RAG</strong>
+    <img src="/images/publications/gref-rag.png" alt="GRef-RAG">
   </div>
   <div class="feature-content">
     <h3>GRef-RAG: Is Broader Retrieval Always Better for GraphRAG?</h3>
