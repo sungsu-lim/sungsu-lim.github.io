@@ -196,11 +196,11 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
   <li><strong>2026.07</strong> · Two papers on GraphRAG and recommendation were presented at <a href="https://sigir2026.org/">SIGIR 2026</a>.</li>
   <li><strong>2026.03</strong> · Our paper on visual token pruning for multimodal LLMs was presented at <a href="https://wacv.thecvf.com/Conferences/2026">WACV 2026</a>.</li>
   <li><strong>2026.02</strong> · Our paper on LLM-enhanced graph representation learning was presented at <a href="https://wsdm-conference.org/2026/">WSDM 2026</a>.</li>
-  <li><strong>2026.01</strong> · Our paper on graph anomaly detection was published in <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications">ESWA</a> (SCIE, JCR Top 6%).
+  <li><strong>2026.01</strong> · Our paper on graph anomaly detection was published in <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications">ESWA</a> (SCIE, JCR Top 6%).</li>
   <li><strong>2026.01</strong> · I received the CNU President's Commendation for Outstanding Faculty Member.</li>
   <li><strong>2025.11</strong> · DILAB placed 4th and received a Special Award in the <a href="https://alibaba-international-cikm2025.github.io/">CIKM 2025 AnalytiCup Alibaba Challenge</a>.</li>
   <li><strong>2025.11</strong> · DILAB won 2nd Place in the ScienceON AI Challenge 2025.</li>  <li><strong>2025.11</strong> · Two papers on fair graph learning and signed community detection were presented at <a href="https://cikm2025.org/">CIKM 2025</a>.</li>
-  <li><strong>2026.08</strong> · Our paper on LLM-powered image retrieval was published in <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications">ESWA</a> (SCIE, JCR Top 6%).
+  <li><strong>2025.08</strong> · Our paper on LLM-powered image retrieval was published in <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications">ESWA</a> (SCIE, JCR Top 6%).</li>
   <li><strong>2025.06</strong> · Our paper on zero-shot industrial anomaly segmentation was presented at PAKDD 2025.</li>
   <li><strong>2025.03</strong> · Our paper on in-context learning in text-attributed graphs was presented at EDBT 2025.</li>
 </ul>
