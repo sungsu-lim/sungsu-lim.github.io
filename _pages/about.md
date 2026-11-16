@@ -179,9 +179,9 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 
 
 # 🔥 News
-
--  **2026.11** · Our paper on retrieval strategies for GraphRAG was accepted to [EACL 2027 Findings](https://2027.eacl.org/).
--  **2026.11** · Our paper on structural clustering for weighted networks was accepted to [WSDM 2027](https://www.wsdm-conference.org/2027/).
+- **2026.11** · Our paper on learning for heterogeneous graphs was accepted to [IEEE TNSE](https://www.comsoc.org/publications/journals/ieee-tnse) (SCIE, JCR Top 3%).
+- **2026.11** · Our paper on retrieval strategies for GraphRAG was accepted to [EACL 2027 Findings](https://2027.eacl.org/).
+- **2026.11** · Our paper on structural clustering for weighted networks was accepted to [WSDM 2027](https://www.wsdm-conference.org/2027/).
 - **2026.09** · Our paper on traffic forecasting robust to aperiodicity was accepted to [NeurIPS 2026](https://neurips.cc/Conferences/2026).
 - **2026.08** · Our paper on few-shot node classification on text-attributed graphs was accepted to [CIKM 2026](https://cikm2026.diag.uniroma1.it/).
 - **2026.07** · Our paper on quantile-free uncertainty quantification for GNNs was presented at [ICML 2026](https://icml.cc/Conferences/2026).
@@ -196,9 +196,11 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
   <li><strong>2026.07</strong> · Two papers on GraphRAG and recommendation were presented at <a href="https://sigir2026.org/">SIGIR 2026</a>.</li>
   <li><strong>2026.03</strong> · Our paper on visual token pruning for multimodal LLMs was presented at <a href="https://wacv.thecvf.com/Conferences/2026">WACV 2026</a>.</li>
   <li><strong>2026.02</strong> · Our paper on LLM-enhanced graph representation learning was presented at <a href="https://wsdm-conference.org/2026/">WSDM 2026</a>.</li>
+  <li><strong>2026.01</strong> · Our paper on graph anomaly detection was published in <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications">ESWA</a> (SCIE, JCR Top 6%).
   <li><strong>2026.01</strong> · I received the CNU President's Commendation for Outstanding Faculty Member.</li>
   <li><strong>2025.11</strong> · DILAB placed 4th and received a Special Award in the <a href="https://alibaba-international-cikm2025.github.io/">CIKM 2025 AnalytiCup Alibaba Challenge</a>.</li>
   <li><strong>2025.11</strong> · DILAB won 2nd Place in the ScienceON AI Challenge 2025.</li>  <li><strong>2025.11</strong> · Two papers on fair graph learning and signed community detection were presented at <a href="https://cikm2025.org/">CIKM 2025</a>.</li>
+  <li><strong>2026.08</strong> · Our paper on LLM-powered image retrieval was published in <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications">ESWA</a> (SCIE, JCR Top 6%).
   <li><strong>2025.06</strong> · Our paper on zero-shot industrial anomaly segmentation was presented at PAKDD 2025.</li>
   <li><strong>2025.03</strong> · Our paper on in-context learning in text-attributed graphs was presented at EDBT 2025.</li>
 </ul>
@@ -220,13 +222,37 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
 
 <div class="feature-item">
   <div class="feature-thumb">
+    <span class="venue-badge">TNSE</span>
+    <strong>MHCL</strong>
+  </div>
+  <div class="feature-content">
+    <h3>Metapath-based Hyperbolic Contrastive Learning for Heterogeneous Graph Embedding</h3>
+    <p>Jongmin Park, Seunghoon Han, Won-Yong Shin, and <strong>Sungsu Lim</strong>*</p>
+    <p><em>IEEE Transactions on Network Science and Engineering</em> · SCIE, JCR Top 3%</p>
+  </div>
+</div>
+
+<div class="feature-item">
+  <div class="feature-thumb">
+    <span class="venue-badge">EACL</span>
+    <strong>GRef-RAG</strong>
+  </div>
+  <div class="feature-content">
+    <h3>GRef-RAG: Is Broader Retrieval Always Better for GraphRAG?</h3>
+    <p>Junghyun Oh, Jin-woo Lee*, and <strong>Sungsu Lim</strong>*</p>
+    <p><em>EACL 2027 Findings</em> · Short Paper · Acceptance Rate: 38.1%</p>
+  </div>
+</div>
+
+<div class="feature-item">
+  <div class="feature-thumb">
     <span class="venue-badge">NeurIPS</span>
     <img src="/images/publications/simbad.png" alt="SIMBAD">
   </div>
   <div class="feature-content">
     <h3>SIMBAD: Spatio-Temporal Traffic Forecasting Robust to Aperiodicity</h3>
     <p>Daniel Y. Lee, Seungwon Shin, Seunghoon Han, <strong>Sungsu Lim</strong>*, and Susik Yoon*</p>
-    <p><em>NeurIPS 2026</em> · Regular Paper · Acceptance Rate: 25.7%</p>
+    <p><em>NeurIPS 2026</em> · <a href="https://neurips.cc/virtual/2026/loc/sydney/poster/150645">Regular Paper</a> · Acceptance Rate: 25.7%</p>
   </div>
 </div>
 
@@ -238,7 +264,7 @@ I received my Ph.D. in Data Science from KAIST, where I was advised by Prof. [Ja
   <div class="feature-content">
     <h3>Quantile-Free Uncertainty Quantification in Graph Neural Networks</h3>
     <p>Soyoung Park, Hwanjun Song, and <strong>Sungsu Lim</strong>*</p>
-    <p><em>ICML 2026</em> · <a href="https://openreview.net/forum?id=zlU90YE4EJ">Regular Paper</a> · Acceptance Rate: 26.6%</p>
+    <p><em>ICML 2026</em> · <a href="https://proceedings.mlr.press/v306/park26x.html">Regular Paper</a> · Acceptance Rate: 26.6%</p>
   </div>
 </div>
 
